@@ -1,0 +1,634 @@
+Programming
+- AI
+- VR
+- NP problems
+High Performance Computing
+blockchain
+robotics
+bioinformatics
+Fully homomorphic cryptography
+Intermittent and low power computing
+ SMT solvers
+ Vectorization, supercompilation, polyhedral compilation 
+  linear logic to manage resources and parallelism, and partial evaluation for static analysis and optimization.
+  Compiler Construction (CC), Code Generation and Optimization (CGO), SPLASH (e.g. OOPSLA), Static Analysis Symposia (SAS), or even venues such as Symposium on Software Testing and Analysis (ISSTA).
+  PLDI
+
+
+
+
+Linguistics
+Phonology
+Islands
+Pied-piping
+Case
+Thematic hierarchies/argument realization
+ Linear A  
+Basque
+ Voynich
+
+
+
+
+Physics problems
+- unification of gravity theories
+- turbulence
+- hierarchy problem
+- time 
+- dark energy and matter
+Quantum information is a hot field, especially solid state qubits and weak measurement
+experimental optics (nonlinear & quantum optics)
+condensed matter
+
+
+
+Engineering problems
+- Quantum computers
+- Battery technology
+- Nuclear fusion
+- Traffic problems
+- Apartment price problems
+- Artificial food
+
+problems of philosophy
+- consciousness
+- intentionality
+- problem of truth
+- reality
+
+biology problems
+Stem cells and immunology
+ Epigenetics
+ The gut microbiome 
+ Antibiotic resistance
+ RNA Interference
+ Human microbiome
+ Vibrio fischeri and Hawaiian bobtail squid symbiosis
+ Immunotherapeutics
+ cryoEM
+  gnotobiotics
+
+
+Math problems
+Langlands program
+Inverse Galois problem
+Busy beavers function
+A proof assistant in which mathematics can be formalised naturally and easily
+ abc conjecture
+-  Morita Equivalence
+Partial Differential Equations ( Navier Stokes Equations,  Maxwell's Equations)
+ category theory
+  derived algebraic geometry (TMF)
+homotopy type theory
+Representation theory
+Optimal transport
+Topological Data Analysis (barcodes, persistence modules, etc...).
+
+Geometric Group Theory (Mapping Class Group, etc...)
+
+Nonlinear Schroedinger anything (I attended a conference on dynamics broadly defined recently and I think maybe one of the talks wasn't related to Nonlinear Schroedinger)
+
+Symplectic Geometry and Hamiltonian Systems
+Dynamic Mode Decomposition and Topological Data Analysis 
+ applied Koopmanism
+
+
+
+
+ Psychology
+  SES-health gradient
+  How to bridge the Intention-Behavior gap.
+  The psychedelic assisted therap
+  replication crisis"
+  "psychopathology factor" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+Hot research problems and areas
+- check for required research areas of university departments
+- check journals
+- check award winners
+
+
+Math (Arxiv)
+- optimal transport
+- Generative Adversarial Networks
+- SLAM (simultaneous localization and mapping) 
+- stochastic gradient descent and other first order methods (but mostly SGD)
+- functional data analysis
+- Tropical geometry
+- categorical/brave new algebra approaches to algebraic geometry
+- Topological Data Analysis (barcodes, persistence modules, etc...).
+- Geometric Group Theory (Mapping Class Group, etc...)
+- Nonlinear Schroedinger anything (I attended a conference on dynamics broadly defined recently and I think maybe one of the talks wasn't related to Nonlinear Schroedinger)
+- Symplectic Geometry and Hamiltonian Systems
+- Geometric Statistics
+- applied Koopmanism
+- Dynamic Mode Decomposition
+- Rough path theory and regulatory structures
+- Malliavin calculus
+- Uniqueness and existence of weak solutions to nonlinear incompressible PDEs
+- Geometric measure theory
+- Microlocal analysis
+- Cartesian differential categories, or more generally tangent categories
+- Stochastic calculus 
+- Calculus in Banach spaces or other infinite dimensional spaces
+- Calculus of functors
+- Inter-universal Teichmüller theory
+- P vs BPP
+- Unique Games Conjecture
+- Non-commutative convex optimization
+- Fine grained complexity theory and its relation to Wagner's conjecture (now a theorem) and SETH 
+- Algorithmic Game Theory, combinatorial game theory
+
+Philosophy of math
+- The underdetermination problem
+- The epistemic problem: How can we give an account of mathematical knowledge
+- The problem of a uniform semantics
+- polyadic measures of statistical dependency using information theory
+
+Abstract algebra
+- Persistent homology in machine learning
+- Roots-of-unity filter and cyclic sieving in combinatorics
+- Finite field method for hyperplane arrangements
+- constructions of expander graphs
+- Stanley-Reisner rings and the number of faces of a simplicial sphere
+
+Linear algebra
+- adjacency matrices, spectral graph theory, expander graphs
+- Rank-nullity theorem
+
+Topology
+- geodesic laminations of a 3-manifold or the mapping class group of a surface
+- Seiberg-Witten invariants
+- Ricci flow
+- Morse theory
+- Floer theory
+- Gromov-Witten theory, Chern-Simons, 3,4-Manifolds, Knots and Knot Homology theory, Symplectic Geometry/topology
+
+Probability
+- dynamical systems and ergodic theory
+- measure theory
+- variants of percolation, fractal dimension of percolation clusters
+- random walks on finite graphs
+- invariant measures for PDEs
+- random matrix theory
+- imprecise probabilities
+- Schramm-Loewner evolution
+
+Statistics
+- Classifying the Iris dataset
+
+Set theory
+- classifying isomorphisms of measure-preserving ergodic transformations
+- Aronszajn trees
+- cardinal arithmetic, and partition properties (Ramsey theory, if you like)
+-  inner model program
+- Settling the PFA conjecture
+
+Math logic
+- Forcing and Infinite Combinatorics
+- "Why do all large cardinal axioms seem to be linearly ordered?"
+- Structural Ramsey theory
+- Continuous logic and Cstar algebras
+- Model theory 
+
+Number theory
+- Bounded Gaps
+- Inverse Galois problem
+- Busy Beaver function
+- langlands program
+
+Combinatorics
+the saturation conjecture for Littlewood-Richardson coefficients
+the n! and (n+1)n-1 conjectures
+longest increasing subsequences of permutations
+the Laurent phenomenon
+Gromov-Witten invariants and toric Schur functions
+toric h-vectors and intersection cohomology
+- problem of combinatorially interpreting the Kronecker coefficients, plethysms (and inner plethysms)
+- combinatorially describe the coefficients of two-parameter Macdonald polynomials in the Schur basis 
+
+Complex analysis
+-  multi-valued functions in the complex plane. Branch cuts
+- Analytic Continuation
+- Faber polynomials, Riemann Mapping Theorem
+- Laurent series and the Residue Theorem
+- Cohomological/Sheaf theoretic methods
+-  Lp harmonic functions on domains in Cn and the Bergman Kernel
+
+Calculus
+- Stokes' Theorem
+- Fractional derivatives
+- Elliptic integrals
+
+physics 
+- The derivation of the Dirac equation and all the physics it directly implies
+- one electron universe model
+- path integral formulation of quantum mechanics.
+- ergosphere
+- ADS/CFT correspondence
+- Bose-Einstein condensates and superposition
+- SU(5) unification
+- Condensed matter 
+- exceptionally orthogonal polynomial differential equations
+- turbulence
+- The mechanism for high-Tc superconductivity
+- employment of very brief episodes of external magnetic field-induced Zeeman Effect for magnetic resonance imaging
+- Cosmic ray origins and propagation
+- antibacterial action of ZnO and how it's surface polarity may affect that action
+- antimatter, SuSy
+- Dark matter and energy
+- AGN feedback
+- Laminar-to-turbulent transition in fluids
+- a classification of 6 dimensional calabi-yau manifolds
+- how to determine a quasar’s redshift by its radio spectrum
+- Yang Mills existence and mass gap
+- Navier Stokes equations and smoothness 
+- Exact solutions to Einstein equations
+- Finding non-perturbative solutions to QFT problems
+- Equation of state of the centre of a neutron star
+- Discovery of the first Earth-like exoplanet
+- Matter/anti-matter power reactors
+- Commercial epitaxial graphene transistors
+- adaptive optics to deal with atmospheric turbulence, nanooptics,  optical metasurfaces and meta-lenses, Quantum optics
+- Hierarchy Problem
+- Coronal Heating Problem
+- why physical constants have their values and not others
+- the measurement problem
+- Contact quality hypothesis
+- Why are there three generations of each fermion?
+- How can we experimentally observe charge migration? This being the mechanism by which localised electron wavepackets move through molecules.
+- Is high harmonic generation in solids due to inter or intra band transitions?
+- structural and ontic realism
+- quantum gravity
+- How does magnetic reconnection work in astrophysical plasmas?
+- The nature of the 5/2 fractional quantum Hall state.
+
+
+CS
+- Virtual reality
+- functional programming
+- SAT and SMT Solvers, Concolic Testing
+- Homotopy Type Theory
+- Lock-Free data structures
+- Automated parallelism of serial programs
+- compressed sensing
+- Dynamic language compilers
+- Cubical Type Theory
+- Parametrised complexity
+- are there problems in BQP - BPP?
+- P-NP, RSA problem
+- Cache coherence
+- Off by one errors
+- Exactly-once delivery
+- Guaranteed order of messages
+- The L-system problem
+
+
+Algorithms
+- Randomized rounding
+- Sampling Random Spanning Trees
+- Graph Sparsification
+- Applications of almost-linear time solver of Laplacian systems
+- dynamic graph algorithms 
+
+OS
+- Dennard Scaling causing an issue
+- TPU
+- Improving Zircon
+- GFS
+- BOrg, K8S
+- "BMQ "BitMap Queue"
+
+Compiler
+- metacompiler
+- PyPy, Graal, Truffle
+- Purple (Nada Amin), Scala LMS, Nanopass, barliman, minikanren, even LLVM's TableGen and MLIR.
+- Gold, Antlr
+- Flex, Bison
+- dynamic languages and JIT
+- delimited continuations, algebraic effect theories, type and effect systems, typestate
+- verified safe optimizations (often via PCC), supercompilation, staging
+- parallel runtimes (e.g. parallel graph reduction) 
+- differentiable programming
+- Fast compilers for dynamic languages
+-  Programming Synthesis
+
+Database
+- DSIC
+- serverless 
+- sigmod vldb icde
+- Binary SQL
+
+computer graphics
+- realtime pathtracing
+- Synthetic light field rendering for eye accomodation
+
+
+AI 
+- Lidar
+- diffusion
+- neural rendering
+- modern hopfield networks 
+- multi-modal learning
+- self-supervised learning
+- geometric deep learning
+- PLS and PCA
+- differentially private learning. federated learning. algorithmic fairness.
+- Retrieval, transfer learning applied to RL, multi-modality, preference learning on large language models.
+- Causal inference, especially w/non-IID data
+- Identification of latent variables
+- Faster, better Bayes
+- Anomaly detection using categorical data!
+
+Computer Vision
+- Medical image analysis (eg: detecting tumors )
+- GANs
+- One shot Learning (my favourite, using one shot learning to do image classification and other applications without using large volumes of training data)
+- AutoML and AutoDL
+- unsupervised representation learning and meta learning
+- Project Tango, Intel Realsense, Stereolabs ZED
+- visual SLAM
+- Landmines
+- dataset annotation
+- surveillance anonymization
+- real-time full body skelital tracking
+- realtime photogrammtry suite
+- "Panoptic Segmentation" and "Video Object Recognition"
+- task of Segmentation (Instance or Semantic) using depth data (RGB-D).
+-  Vision Transformers and capsule nets
+- recursive recognition of subfeatures
+- Mirror detection in images or videos
+
+NLP
+- Transfer Learning for NLP (CoVe, ELMo, ULMFiT, BERT, GPT, GPT-2)
+- Winograd schema challenges and co-reference resolution
+- Word vectors
+
+Machine learning
+- Diverse environments learning and catastrophic forgetting
+- Composable/modular learning
+- nethack/pokemon
+- long planning/structure in generative model
+- Unstructured data
+- Learning causality from data and not just correlations.
+- "Augmented Analytics" 
+- Generating error bars for really complex methods
+- Variational training methods
+- (Bayesian) optimization techniques for hyperparameter search
+- Feature learning from non stationary distributions
+- Complex regression problems
+- Multimodality in engineering domains
+- MNAR works well with deep learning
+- highly autocorrelated error models, provable guarantees, trajectory generation, real time constraints, non stationarity
+
+
+Deep learning
+- Interpretability
+- Explainability, Deep Neuroethology of a Virtual Rodent
+- Object 3D pose estimation. See DOPE, PointCNN, DenseFusion and DeepIM 
+
+Robotics
+- GelSight
+- Creating elastomer-based robots
+- HRI
+- Covariant
+-  Motion planning
+- Multiaxis singularities
+- SLAM
+- Lost Robot Problem
+- Object manipulation and haptic feedback
+- Depth estimation
+- Position estimation of moving objects
+- Affordance discovery
+
+Data Science
+- mendelian randomization
+- Bayesian nonparametrics.
+- Topological data analysis 
+- Approximate posterior inference techniques
+- Spatial statistics and functional data analysis
+- Precision Forestry
+
+
+
+EE
+- Non-invasive methods for measuring anything using RF
+- RFIC
+- high-power DC converting and inverting
+- Nanophotonics
+- Beam steering arrays on a chip
+- Lightmatter, Groq, sambanova, cerebras
+- GaN based electronics
+- Silicon photonics
+- Stability of the power grid with the increase in asynchronous generation sources.
+- PMU (phasor measurement units) adoption in transmission networks
+
+
+Security
+- Discovering Invariants by Solving Constraints
+- Reverse Engineering for Security
+- Automatically Finding Security Vulnerabilities
+- Tools for Logic Programming
+- Running Programs in Reverse by Program Transformation
+
+
+Material Science
+- Perovskites
+- 4d materials
+
+Biology
+- Chemotherapy
+-  hitting specific cells with radiation
+- Easy implantation of stem cells to grow back teeth
+- Single Cell Lab on a Chip
+- Synthetic Gene Networks.
+- Using GPU 
+- Chimeric organ growth
+- Modification of viruses
+- Stem cells 
+- Epigenetics
+- gut microbiome
+- Single-cell geno/transcripto/proteo-mics
+- Single cell sequence
+- metagenomics, sc-Seq, and RNA-seq
+- Protein Post translational modifications and their regulation
+- RNA modifications
+- computational protein design
+- PvP Biologics as an example of optimizing an enzyme (gluten degradation) - Neoleukin for cancer immunotherapy - Arzeda does enzyme optimization for manufacturing - and David was even listed as a cofounder of Sana Biotech though I can't talk about specifics
+- rosetta
+- nanometer scales
+- What is the function of VaultRNA, RNA-mediated phase separation
+- long non-coding RNAs
+- genetic code expansion
+- Abiogenesis
+- 3D structure prediction of RNA
+- eukaryotic UTR
+- Post translational modifications to RNAs
+- RNA DNA hybrid
+- the boundaries of the cryptic/dark proteome
+- functional applications to chromosomal conformation capture 
+- Vascularization
+- printing titanium implants with lattice structures
+- Encapsulated xenograft cells, autologous SC, engineered ephitelial cells
+- The amyloid hypothesis of Alzheimer's disease
+- how the gut microbiome contributes to health and disease
+- Endosymbiotic Theor
+- correlation between systemic bacterial infections and neurological disorders like autism and schizophrenia
+- Nosocomial disease transmission
+
+Botany
+- The way bamboo flowers
+- massive liberation of volatile organic compounds (VOC)
+- arrangement of the vascular bundles in monocots and dicots
+- Why does liverwort moss produce cis-PET
+- Why leaves are the shapes they are.
+- Which mycorrhizal fungi terrestrial orchids need to grow
+- why some cypress trees grow "knees" in the ground around their trunk
+- mobile signal for systemic acquired resistance
+- All gymnosperms, pteridophytes and their systematics
+
+
+Chemistry
+- C-H activation and photoredox catalysis
+- Photochemistry
+- Graphene
+- MOF
+- More efficient water recycling methods
+- Terraforming planets
+- Invitro meat farming
+-  free energy
+- biorefineries
+- Plug flow reactors
+- Microfluidics
+- histone code hypothesis
+- neuro degenerative and amyloid field
+- Bioconjugation
+- Site-selective modification of biomolecules, heterobifunctional (or higher) linkers, prodrug and drug release strategies
+- quantum tunneling through antibonding orbitals
+
+
+
+Psychology
+- Problem solving, decision-making, bayesian modelling, connectionist modelling, agent-based modelling and dynamical systems modelling, quantum probability 
+- Friston, free energy principle, and predictive processing
+- Confirming the Predictive Coding point
+- Neural correlates of consciousness, inner speech
+- What are the biological markers of mental illnesses?
+- Improving the field efficacy of the instruments used to assess a forensic patient's likelihood of recidivism and/or violence
+- what's causing the SES-health gradient?
+- How to bridge the Intention-Behavior gap.
+-  how is shape information encoded and represented? Or, more generally, how does mid-level vision work? How do we go from specific, retinotopic representations to invariant ones? How am I able to recognize a square as a square irrespective of its orientation (in 3D!), it's shading, color, etc.? How can I recognize a cloud as being square-shaped when it doesn't have clearly defined corners or straight line boundaries? How can I see a cloud as a dog?
+
+Neuroscience
+- the lateralization of brain function
+- how the basal ganglia really works
+- algorithm of the neocortex
+
+Linguistics
+- Is there an identifiable relationship between PIE and Proto-Uralic?
+- Linear A
+- settling the origins of Basque
+- Reconstruction of Proto-Yucatecan
+- Voynich
+- Uralo-Yukaghir
+- Nganasans before their pre-"samoyediziation"
+- a complete UG syntax
+- Is prosodic structure recursive?
+- vasconic substratum theory.
+- SLA theories
+- Monitor Model/Input Hypothesis
+- are morpheme-based theories or word-based theories better?
+- are frequency explanations or grammaticalization path explanations correct
+- syntactic islands
+- Labelling in derivational syntax
+- Integrating information structure (and with that a full semantic analysis of what information structure even is)
+- What a phase is.
+- Nostratic theor
+- Pied-piping
+- Case
+- Thematic hierarchies/argument realization
+- what exactly the lexicon looks like
+
+Material science
+- how to produce materials with low enviromental impact
+- Biodrgradable polymers
+- Carbon free construction materials that are cheap
+- Mass production of carbon nanotubes
+- Materials that can be produced by ISRU on the Moon and Mars
+- Ways to out-engineer the ductility-strength tradeoff
+- Materials Genome Initiative
+- Metallic hydrogen
+- The nature of the amorphous phase transition
+
+Mechanical engineering
+- Composite (CMC, PMC, etc) turbine engine parts
+- smart structures/piezoelectrics
+- CFD-CSD coupling. Electric propulsion. Hi-speed and compound helicopters (coaxials, tiltrotors, thrust compounding). Look up The JMR-TD contract
+- Electric actuation/swashplateless rotor systems
+- Unsteady aerodynamics, vortex shedding and wake prediction
+- Hypersonic flight, CFD
+- Non-Destructive Evaluation/Testing
+
+Geology
+- Earth dynamo, hotspot
+- the timing of serpentinization in ultramafic rocks
+- When and how plate tectonics started
+- why and how dolomite is formed
+- What are the Large Low-Shear-Velocity-Provinces in the mantle
+- What is the exact nature of the formation and migration of melt in the mantle in order to reach the crust?
+- What is the mechanism(s) by which large plutons are emplaced into the crust?
+- What were the various kill mechanisms for the Big 5 mass extinctions? We understand the one at the K-Pg boundary best, but uncertainty remains on just why the extinction was so species selective and how much the Deccan Traps contributed to things.
+- How are carbonatite melts formed?
+- What are the volatiles in the core
+- The change in oxygen isotope ratios in marine sedimentary rocks since the Cambrian.
+- The role of relativistic time dilation in protoplanetary disk formation
+- which mineral absorbs the most electromagnetic radiation
+- Banded Iron Formations 
+- diagenesis
+- determining earthquakes
+- Why Earth has tectonic plates, but all other planetary bodies we've observed don't
+- The seismic low-angle normal fault problem
+- Messinian Salinity Crisis
+
+
+Civil Engineer
+- BIM
+
+AI
+- machine translation via a semantic pivot language
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

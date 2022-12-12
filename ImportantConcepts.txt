@@ -1,0 +1,707 @@
+Math
+
+FT of Calculus
+Mean value theorem
+central limit
+infinitude of primes
+classification of finite simple groups
+yoneda lemma
+generalized stokes theorem
+The spectral theorem for finite dimensional vector spaces
+Atiyah-Singer Index theorem
+Riesz representation and Hille-Yoshida
+Weil conjectures
+the Hahn-Banach theorem
+Hamming's error detection and correction
+The Kakutani fixed-point theorem.
+de Finetti's exchangability theorem.
+Arrow's impossibility theorem, especially in the Gibbard–Satterthwaite form
+von Neumann's and Sion's versions of the minimax theorems
+The Kolmogorov–Arnold representation theorem
+Great Picard's theorem
+The theory of complex multiplication
+Cayley's theorem
+theorem of Gauß-Bonnnet
+Fourrier analysis
+Adjoint functors
+Geometric measure theory
+Donaldson's theorem
+Rice's theorem
+Brouwer fixed-point theorem
+Stone–Weierstrass theorem
+Cantor's theorem
+Banach fixed-point theorem
+
+
+Smith normal form of a matrix over a PID
+The isomorphism theorems
+Jordan canonical form
+Right adjoints preserve limits
+Cauchy Schwartz inequality
+Baire category theorem
+That one point set theorem that guarantees something is a homeomorphism onto its image
+Lax Milgram lemma (seriously it feels like most of intro elliptic pde is getting shit lined up so you can spam this theorem)
+The triangle inequality.
+Zorn's lemma
+Schur's Lemma
+The pigeonhole principle.
+Law of large numbers
+Bayes’ theorem
+The Hölder Inequality
+Picard–Lindelöf theorem
+Pi-lambda theorem
+The compactness theorem from model theory
+Buchberger Criterion
+Gauss's theorema egregium
+Euler's pentagonal number theorem
+
+
+
+The domain of any function (modulo identifying points with the same image) is naturally bijective to the image. Genuinely elementary, but when the function preserves structure you care about this gives you all kinds of theorems (like the isomorphism theorems for groups and rings, the universal property for the quotient of a topological space, etc.) that all abstract to "to study an object, study the maps in and out of it."
+
+
+
+
+
+Neuro
+Optogenetics
+Chemogenetics
+Integrated information theory
+Attention schema theory
+Orchestrated objective reduction
+
+
+
+
+
+
+
+
+Biology
+
+Epigenetics
+LUCA
+homeostasis
+split brain syndrome
+protein folding
+systematic cladistics
+cell fate decision
+abiogenesis
+senescence
+homochirality
+C4 photosynthesis
+
+
+
+
+Psychology
+psychosomatic symptom
+locus of control
+call of the void
+denial
+dissociative sysmptom
+Folie a deux
+the Baader-Meinhoff effect
+Capgras syndrome
+Phantom limb syndrome
+Synesthesia
+Cognitive dissonance
+mass hysteria
+The repression of traumatic memories
+planning fallacy
+The Lake Wobegon effect
+Dunning-Kruger effect
+The "I wash most of the dishes" fallacy
+Borderline Personality disorder
+anorexia nervosa
+we judge ourselves by our intentions, and others by their actions
+psychodynamics
+ Ned Herrmann
+ The CBT model
+The biopsychosocial model or approach
+ExRP
+psycho social model
+transactional analysis
+“normalization of deviance” and “practical drift”
+“forced functions” and “opt-in / opt-out”
+
+
+  Take a deck, and remove one card without looking at it. Then turn over the other 51 cards one at a time in front of you at a steady pace. Simply observe. Don't try to count anything. When you've gone through them all, immediately take a guess at which card you never saw. Good chance you'll guess at least the number on the card, and possibly the suit
+
+
+
+
+
+  Chemistry
+
+  Electronegativity, polarity
+  Orbitals and hybridization
+  Molecule size, steric hindrance
+  Electrons
+  electrophile-nucleophile
+  Electrons flow HOMO -> LUMO
+  Proton Transfer Solution
+  oxidation/reduction of C-O bonds
+  Principle of microscopic reversibility. Electronegativity. Molecular Orbital Theory
+  dirac equation
+
+
+
+
+
+
+
+  Physics
+
+  linac coherent light source (LCLS)
+  gravitational waves
+  asymptotic symmetries
+  Topological insulators and that family of quantum materials 
+  CRISPR
+   Lorentz invariance
+   The Standard Model
+    the principle of stationary action
+    Noether's theorem
+    Unitarity and thus conservation of probability
+    Maxwell's equations
+    Bell inequality violation
+     the principle of least action and the Euler-Lagrange/Hamilton formalism
+     The Aharanov-Bohm effect
+     Coulomb Gauge theory.
+     Wherler's delayed-choice experiment
+     Goddard-Thorn
+     Spontaneous symmetry breaking
+     Double quantum eraser experiment
+     geodesics
+     Quantum Zeno Effect
+     Wave–particle duality
+     principle of rotational invariance
+     translation invariance
+     violations of momentum conservation law
+violation of energy conservation
+violation of angular momentum conservation
+violations of the law of center-of-mass motion.
+violations of CPT (matter/antimatter symmetry)
+ space-time symmetries
+ Lindblatt formalism
+ No irreversible decoherence in fundamental systems
+ string theory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Engineering
+
+Screw theory and how to apply it to inverse kinematics
+Extended Kalman filtering (indirect). Rao Blackwellized particle filters
+Automatic differentiation
+Motion planning (start with A-star)
+robot operating system
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sociology
+
+The social construction of reality
+Karl Marx's Alienation, Weber's Disenchantment + Enchantment, Durkheim's Anomie, Ethnicity vs Race, Gender vs Sex... and Foucault's Power
+groups
+social interactions
+relationships 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Geography
+Geomorphology
+
+• Factors controlling landform development (P1)
+
+• Endogenetic and exogenetic forces (P1)
+
+• Origin and evolution of the earth’s crust (P1)
+
+• Fundamentals of geomagnetism (P1)
+
+• Physical conditions of the earth’s interior (P1)
+
+• Geosynclines (P1)
+
+• Continental drift (P1)
+
+• Isostasy; Plate tectonics (P1)
+
+• Recent views on mountain building (P1)
+
+• Vulcanicity; Earthquakes and Tsunamis (P1)
+
+• Concepts of geomorphic cycles and Landscape development (P1)
+
+• Denudation chronology (P1)
+
+• Channel morphology (P1)
+
+• Erosion surfaces; Slope development (P1)
+
+• Structure and relief of India (P2)
+
+• Drainage systems and watersheds (P2)
+
+• Physiographic regions of India (P2)
+
+Climatology and Oceanography
+
+• Temperature and pressure belts of the world (P1)
+
+• Heat budget of the earth (P1)
+
+• Atmospheric circulation (P1)
+
+• Atmospheric stability and instability (P1)
+
+• Planetary and local winds (P1)
+
+• Monsoons and jet streams (P1)
+
+• Air masses and frontal genesis (P1)
+
+• Temperate and tropical cyclones (P1)
+
+• Types and distribution of precipitation (P1)
+
+• Weather and Climate (P1)
+
+• Koppen’s, Thornthwaite’s and Trewartha’s classification of world climates
+
+• Hydrological cycle (P1)
+
+• Mechanism of monsoons and rainfall patterns of India (P2)
+
+• Tropical cyclones and Western Disturbances of India (P2)
+
+• Floods and Droughts of India (P2)
+
+• Climatic Regions of India (P2)
+
+• Bottom topography of the Atlantic, Indian and Pacific Oceans (P1)
+
+• Temperature and salinity of the oceans (P1)
+
+• Heat and salt budgets (P1)
+
+• Ocean deposits (P1)
+
+• Waves, currents and tides (P1)
+
+• Laws of the sea (P1)
+
+Biogeography
+
+• Genesis of soils (P1)
+
+• Classification and distribution of soils (P1)
+
+• Soil profile (P1)
+
+• Soil erosion (P1)
+
+• Degradation and conservation (P1)
+
+• Factors influencing world distribution of plants and animals (P1)
+
+• Problems of deforestation and conservation measures (P1)
+
+• Social forestry; agro-forestry (P1)
+
+• Wild life (P1)
+
+• Major gene pool centres (P1)
+
+• Principle of ecology (P1)
+
+• Human ecological adaptations (P1)
+
+• Influence of man on ecology and environment (P1)
+
+• Natural vegetation (P2)
+
+• Soil types and their distributions (P2)
+
+• Land, surface and ground water, energy, minerals, biotic and marine resources (P2)
+
+• Forest and wild life resources and their conservation (P2)
+
+• Energy crisis (P2)
+
+Environmental Geography
+
+• Applied Geomorphology (P1)
+
+• Geo hydrology (P1)
+
+• Economic geology and environment (P1)
+
+• Global climatic change and role and response of man in climatic changes (P1)
+
+• Applied climatology and Urban climate (P1)
+
+• Marine resources: biotic, mineral and energy resources (P1)
+
+• Coral bleaching (P1)
+
+• Sea-level changes (P1)
+
+• Marine pollution (P1)
+
+• Global and regional ecological changes and imbalances (P1)
+
+• Ecosystem their management and conservation (P1)
+
+• Environmental degradation, management and conservation (P1)
+
+• Biodiversity and sustainable development (P1)
+
+• Environmental policy (P1)
+
+• Environmental hazards and remedial measures (P1)
+
+• Environmental education and legislation (P1)
+
+• Ecological issues (P2)
+
+• Environmental hazards (P2)
+
+• Landslides, earthquakes, Tsunamis, floods and droughts, epidemics (P2)
+
+• Issues relating to environmental pollution (P2)
+
+• Changes in patterns of land use (P2)
+
+• Principles of environmental impact assessment and environmental management (P2)
+
+• Environmental degradation; Deforestation, desertification and soil erosion (P2)
+
+Agriculture Geography
+
+• World agriculture (P1)
+
+• Typology of agricultural regions (P1)
+
+• Agricultural inputs and productivity (P1)
+
+• Food and nutrition problems (P1)
+
+• Food security (P1)
+
+• Famine: causes, effects and remedies (P1)
+
+• Von Thunen’s model of agricultural location (P1)
+
+• Infrastructure: irrigation, seeds, fertilizers, power (P2)
+
+• Institutional factors: land holdings, land tenure and land reforms (P2)
+
+• Cropping pattern, agricultural productivity, agricultural intensity (P2)
+
+• Crop combination, land capability (P2)
+
+• Agro and social-forestry (P2)
+
+• Green revolution and its socio-economic and ecological implications (P2)
+
+• Significance of dry farming (P2)
+
+• Livestock resources and white revolution; aqua-culture; sericulture (P2)
+
+• Apiculture and poultry (P2)
+
+• Agricultural regionalisation (P2)
+
+• Agro-climatic zones (P2)
+
+• Agro-ecological regions (P2)
+
+• Population explosion and food security (P2)
+
+Industrial Geography
+
+• Energy crisis (P1)
+
+• The limits to growth (P1)
+
+• World industries: Location patterns and problems (P1)
+
+• Weber’s model of industrial location (P1)
+
+• Evolution of industries (P2)
+
+• Location factors of cotton, jute, textile, iron and steel, aluminum, fertilizer, paper, chemical and pharmaceutical, automobile, cottage and agro-based industries (P2)
+
+• Industrial houses and complexes including public sector undertakings (P2)
+
+• Industrial regionalization (P2)
+
+• New industrial policies (P2)
+
+• Multinationals and liberalization (P2)
+
+• Special Economic Zones (P2)
+
+• Tourism including eco –tourism (P2)
+
+Transport, Communication and Trade
+
+• Patterns of world trade (P1)
+
+• Road, railway, waterway (P2)
+
+• Airway and pipeline networks (P2)
+
+• Their complementary roles in regional development (P2)
+
+• Growing importance of ports on national and foreign trade (P2)
+
+• Trade balance (P2)
+
+• Trade Policy (P2)
+
+• Export processing zones (P2)
+
+• Developments in communication and information technology and their impacts on economy and society P2)
+
+• Indian space programme (P2)
+
+Regional Developments and Planning and Political Aspects
+
+• Concept of a region (P1)
+
+• Types of regions and methods of regionalization (P1)
+
+• Growth centres and growth poles (P1)
+
+• Regional imbalances (P1)
+
+• Regional development strategies (P1)
+
+• Environmental issues in regional planning (P1)
+
+• Planning for sustainable development (P1)
+
+• Perroux and Boudeville Rostov’s model of stages of growth (P1)
+
+• Experience of regional planning in India (P2)
+
+• Five Year Plans; Integrated rural development programmes (P2)
+
+• Panchayati Raj and decentralized planning (P2)
+
+• Command area development (P2)
+
+• Watershed management (P2)
+
+• Planning for backward area, desert drought prone, hill, tribal area development (P2)
+
+• Multi-level planning (P2)
+
+• Regional planning and development of island territories (P2)
+
+• Problems of agrarian and industrial unrest (P2)
+
+• Regional disparities in economic development (P2)
+
+• Concept of sustainable growth and development (P2)
+
+• Environmental awareness (P2)
+
+• Linkage of rivers (P2)
+
+• Globalization and Indian economy (P2)
+
+• Heartland and Rimland theories (P2)
+
+• Laws of international boundaries and frontiers (P2)
+
+• Geographical basis of Indian federalism (P2)
+
+• State re-organization (P2)
+
+• Emergence of new states (P2)
+
+• Regional consciousness and interstate issues (P2)
+
+• international boundary of India and related issues (P2)
+
+• Cross border terrorism (P2)
+
+• India’s role in world affairs (P2)
+
+• Geopolitics of South Asia and Indian Ocean realm (P2)
+
+Perspectives in Human Geography Population and Settlement Geography
+
+• Areal differentiation (P1)
+
+• Regional synthesis (P1)
+
+• Dichotomy and dualism (P1)
+
+• Environmentalism (P1)
+
+• Quantitative revolution and location analysis (P1)
+
+• Radical, behavioral, human and welfare approaches (P1)
+
+• Languages, religions and secularisation (P1)
+
+• Cultural regions of the world (P1)
+
+• Human development index (P1)
+
+• Systems analysis in Human geography (P1)
+
+• Malthusian, Marxian and demographic transition models (P1)
+
+• Growth and distribution of world population (P1)
+
+• Demographic attributes (P1)
+
+• Causes and consequences of migration (P1)
+
+• Concepts of over-under-and optimum population (P1)
+
+• Population theories (P1)
+
+• World population problems and policies (P1)
+
+• Social well-being and quality of life (P1)
+
+• Population as social capital (P1)
+
+• Types and patterns of rural settlements (P1)
+
+• Environmental issues in rural settlements (P1)
+
+• Hierarchy of urban settlements (P1)
+
+• Urban morphology (P1)
+
+• Concepts of primate city and rank-size rule (P1)
+
+• Functional classification of towns (P1)
+
+• Sphere of urban influence (P1)
+
+• Rural-urban fringe; Satellite towns (P1)
+
+• Problems and remedies of urbanization (P1)
+
+• Sustainable development of cities (P1)
+
+Cultural Setting and Settlements
+
+• Historical Perspective of Indian Society (P2)
+
+• Racial, linguistic and ethnic diversities (P2)
+
+• Religious minorities (P2)
+
+• Major tribes, tribal areas and their problems (P2)
+
+• Cultural regions (P2)
+
+• Growth, distribution and density of population (P2)
+
+• Demographic attributes (P2)
+
+• Sex-ratio, age structure, literacy rate (P2)
+
+• Work-force, dependency ratio (P2)
+
+• Longevity (P2)
+
+• Migration (inter-regional, intra- regional and international) and associated problems (P2)
+
+• Population problems and policies (P2)
+
+• Health indicators (P2)
+
+• Types, patterns and morphology of rural settlements (P2)
+
+• Urban development's (P2)
+
+• Morphology of Indian cities (P2)
+
+• Functional classification of Indian cities (P2)
+
+• Conurbations and metropolitan regions (P2)
+
+• Urban sprawl (P2)
+
+• Slums and associated problems (P2)
+
+• Town planning (P2)
+
+• Problems of urbanization and remedies (P2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Linguistics
+
+ Sapir-Whorf Hypothesis or Linguistic Relativity
+
+
+
+
+
+
+
+
+
+

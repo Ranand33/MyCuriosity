@@ -1,0 +1,6656 @@
+Classical Mechanics
+Newtons laws of motion
+- true statements about motions
+Charged particles and projectiles
+- different type of motion
+Momentum and angular momentum
+- concept of how fast the object is moving
+Energy
+- idea of an object's capacity to move 
+Oscillations
+- different type of movement
+Calculus of variations
+- mathematical tool to analyze the maxima and minima of functions and functionals 
+Lagrange equations
+- mathematical tool to formulate newtonian mechanics
+2 body central force problem
+- predicting the movement of 2 body's with certain constraints
+Noninertial mechanics
+- different frame of reference
+Rotational motion of rigid bodies
+Coupled oscillators and normal modes
+
+Part 2 
+Nonlinear mechanics and chaos
++ motion with disproportionate output with regard to inputs (function that does not produce proportional increase in output with regard to the input) 
+Hamiltonian mechanics
++ formulation of mechanics with different math theorems  
+Collision theory
+- modelling of collision between particles with math
+Special relativity 
+- explanation of how speed affects mass, time and space
+Continuum mechanics
+- behavior of continuous mass rather than discrete mass
+
+Elements of Set Theory
+Introduction
+Axioms and operations
+Relations and Functions
+Natural numbers
+Real numbers
+Carninal numbers and the axiom of choice
+Orderings and Ordinals
+Ordinals and order types
+Special topics
+
+Book of Abstract algebra
+Why abstract algebra
+Operations
+Definition of groups
+Elementary properties of groups
+Subgroups
+Functions 
+Group of permutations
+Permutation of a finite set
+Isomorphism
+Order of group elements
+Cyclic groups
+Partitions and equivalence relations
+Counting cosets
+Homomorphism
+Quotient groups
+FUndamental homomorphism theorem
+Rings: definitions and elementary properties
+Ideals and homomorphism
+Quotient rings
+Integral domains
+Integers
+Factoring into primes
+Elements of number theory
+rings of polynomials
+factoring polynomials
+substition in polynomials
+Extensions of fields
+vector spaces
+degrees of field extensions
+ruler and compass
+Galois theory: preample
+Galois theory: heart of the matter
+Solving equations by radicals
+
+
+Introduction to electrodynamics
+Vector analysis
+electrostatics
+potentials
+electric field in matter
+Magnetostatics
+Magnetic field in matter
+Electrodynamics
+Conservation laws
+Electromagnetic waves
+Potentials and fields
+Radiation
+Relativity and electrodynamics
+
+Introduction to Quantum Mechanics
+Part I theory
+Wave function
+Time independent Schrodinger equation
+Formalism
+Quantum mechanics in 3D
+Identical particles
+Symmetries and Conservation laws
+Part 2 applications
+Time independent perturbation theory
+Variational principle
+WKB approximation
+SCattering
+Quantum dynamics
+Afterword
+
+Introduction to Probability 
+Sample space and probability
+Discrete random variables
+General random variables
+Further topics on random variables
+Limit theorems
+Bernoulli and POisson processes
+Markov chain
+Bayesian statistical inference
+Classical statistical inference
+
+Vibrations and waves
+Periodic motions
+superposition of periodic motions
+Free vibrations of physical systems
+Forced vibrations and resonance
+Coupled oscillators and normal modes
+Normal models of continuous systems, Fourier analysis
+Progressive waves
+Boundary effects and interference
+
+Introduction to geometry
+Part I
+Triangles
+Regular polygons
+Isometry in the euclidean plane
+2D crystallography
+Similarity in the Euclidean plane
+Circles and spheres
+isometry and similarity in Euclidean space
+Part II
+Coordinates
+Complex numbers
+5 platonic solids
+Golden section and phyllotaxis
+Part III
+ordered geometry
+affine geometry
+projective geometry
+absolute geometry
+hyperbolic geometry
+Part IV
+differential geometry of curves
+tensor notation
+DIFFERENTIAL GEOMETRY OF SURFACES 
+GEODESICS 
+TOPOLOGY OF SURFACES 
+FOUR-DIMENSIONAL GEOMETRY 
+
+
+Thermal physics
+States of model system
+Entropy and temperature
+Boltzmann distribution and Helmholtz free energy
+Thermal Radiation and Planck distribution
+Chemical potential and Gibbs distribution
+Ideal gas
+Fermi and Bose gases
+Heat and work
+Gibbs free energy and chemical reactions
+Phase transformations
+Binary mixtures
+Cryogenics
+Semiconductor statistics
+Kinetic theory
+Propagation
+
+Introduction to Mathematical logic
+Useful facts about sets
+Sentential logic
+First order logic
+Undecidability
+Second order logic
+
+Optics
+A brief history 
+Wave motion
+Electromagnetic theory, photons, and light
+Propagation of light
+Geometrical optics
+More on geometrical optics
+Superposition of waves
+Polarization 
+Interference
+Diffraction
+Fourier optics
+Basics of coherence theory
+Modern optics: lasers and other topics
+
+All of statistics
+Part I probability
+Probability
+Random Variables 
+Expectation
+Inequalities
+Convergence of Random Variables 
+Part II Statistical inference
+Models, Statistical Inference and Learning 
+Estimating the CDF and Statistical Functionals
+The Bootstrap
+Parametric Inference 
+Hypothesis Testing and p-values
+Bayesian Inference 
+Statistical Decision Theory 
+Part III Statistical Models and Methods 
+Linear and Logistic Regression
+Multivariate Models 
+Inference About Independence
+Causal Inference
+Directed Graphs and Conditional Independence
+Undirected Graphs
+Log-Linear Models
+Nonparametric Curve Estimation
+Smoothing Using Orthogonal Functions
+Classification 
+Probability Redux: Stochastic Processes
+Simulation Methods
+
+Spacetime and Geometry
+Special relativity and flat spacetime
+Manifolds
+Curvature
+Gravitation
+Schwarzschild solution
+More general black holes
+Perturbation theory and gravitational radiation
+Cosmology
+Quantum field theory in curved spacetime
+
+Topology
+Set theory and logic
+topological spaces and continuous functions
+connectedness and compactness
+Countability and separation axioms
+Tychonoff theorem
+Metrization theorems and paracompactness
+Complete metric spaces and function spaces
+Baire space and dimension theory
+Fundamental group
+Separation theorems in the plane
+Seifert van Kampen theorem
+Classification of covering spaces
+Classification of surfaces
+
+Introduction to elementary particles
+Historical introduction to the elementary particles
+Elementary particle dynamics
+Relativistic kinematics
+Symmetries
+Bound states
+Feynman calculus
+Quantum electrodynamics
+Electrodynamics and chromodynamics of quarks
+weak interactions
+gauge theories
+neutrino oscillations
+afterword
+
+Introduction to number theory
+Series of prime numbers
+Farey series and Minkowski theorem
+Irrational numbers
+Congruences and residies
+Fermat's theorem
+General properties of congruences
+CONGRUENCES TO COMPOSITE MODULI
+Representing numbers by decimals
+CONTINUED FRACTIONS
+Approximation of irrational numbers by rationals
+THE FUNDAMENTAL THEOREM OF ARITHMETIC 
+SOME DIOPHANTINE EQUATIONS
+QUADRATIC FIELDS
+THE ARITHMETICAL FUNCTIONS
+GENERATING FUNCTIONS OF ARITHMETICAL FUNCTIONS
+THE ORDER OF MAGNITUDE OF ARITHMETICAL FUNCTIONS
+PARTITIONS
+THE REPRESENTATION OF A NUMBER BY TWO OR FOUR SQUARES
+REPRESENTATION BY CUBES AND HIGHER POWERS
+Kronecker's theorem
+GEOMETRY OF NUMBERS
+ELLIPTIC CURVES
+
+Cosmology
+Expansion of the universe
+Cosmic microwave radiation background
+The early universe
+Inflation
+General Theory of small fluctuations
+Evolution of cosmological fluctuations
+Anisotropies in the sky
+Growth of structure
+Gravitational lense
+Inflation as the origin of cosmological fluctuations
+
+ELEMENTS OF THE THEORY OF FUNCTIONS AND FUNCTIONAL ANALYSIS
+CHAPTER I
+FUNDAMENTALS OF SET THEORY
+CHAPTER II
+METRIC SPACES
+CHAPTER III
+NORMED LINEAR SPACES
+CHAPTER IV
+LINEAR OPERATOR EQUATIONS
+CHAPTER V 
+MEASURE THEORY 
+CHAPTER VI 
+MEASURABLE FUNCTIONS 
+CHAPTER VII 
+THE LEBESGUE INTEGRAL 
+CHAPTER VIII 
+SQUARE INTEGRABLE FUNCTIONS
+CHAPTER IX 
+ABSTRACT HILBERT SPACE. INTEGRAL EQUATIONS  WITH SYMMETRIC KERNEL 
+
+An Introduction to Modern Astrophysics
+Part 1 Tools of astronomy
+Celestial sphere
+celestial mechanics
+Continuous spectrum of light
+Theory of special relativity
+Interaction of light and matter
+Telescopes
+Part 2 Nature of the stars
+Binary systems and stellar parameters
+Classification of stellar spectra
+Stellar atmoshperes
+Interior of stars
+The sun
+Interstellar medium and formation of stars
+Main sequence and post main sequence stellar evolution
+Stellar pulsation
+Fate of massive stars
+Degenerate remnants of stars
+General relativity and black holes
+Close binary star systems
+Part 3 Solar system
+Physical processes in the solar system
+terrestrial planets
+Realm of the big planets
+Minor bodies in the solar system
+formation of planetary systems
+Part 4 Universe
+Milky way galaxy
+nature of galaxies
+Galactic evolution
+Structure of the universe
+Active galaxies
+Cosmology
+The early universe
+
+Linear algebra done right
+Vector space
+Finite dimensional vector space
+Linear maps
+Polynomials
+Eigenvector and eigenvalues
+Inner product spaces
+Operations on inner product spaces
+Operations on complex vector spaces
+Operations on real vector spaces
+Trace and determinant
+
+Computational physics
+Introduction
+Computing software basics
+errors and uncertainties in copmuting
+monte carlo: randomness, walks, decays
+differentiation and integration
+matrix computing
+trial and error searching and data fitting
+Solving Differential Equations: Nonlinear Oscillations
+ODE Applications: Eigenvalues, Scattering, and Projectiles
+High-Performance Hardware and Parallel Computers
+Applied HPC: Optimization, Tuning, and GPU Programming
+Fourier Analysis: Signals and Filters
+Wavelet and Principal Components Analyses: Nonstationary Signals and Data Compression
+Nonlinear Population Dynamics
+Continuous Nonlinear Dynamics
+Fractals and Statistical Growth Models
+Thermodynamic Simulations and Feynman Path Integrals
+Molecular Dynamics Simulations
+PDE Review and Electrostatics via Finite Differences and Electrostatics via Finite Differences
+Heat Flow via Time Stepping
+Wave Equations I: Strings and Membranes 
+Wave Equations II: Quantum Packets and Electromagnetic
+Electrostatics via Finite Elements
+Shocks Waves and Solitons
+Fluid Dynamics
+Integral Equations of Quantum Mechanics
+
+Complex analysis
+Differential Calculus in the Complex Plane C
+Integral Calculus in the Complex Plane C
+Sequences and Series of Analytic Functions, the Residue Theorem
+Construction of Analytic Functions
+Elliptic Functions
+Elliptic Modular Forms
+Analytic Number Theory
+Riemann Surfaces
+Harmonic Functions on Riemann Surfaces
+Uniformization
+Compact Riemann Surfaces
+Analytic Functions of Several Complex Variables
+Abelian Functions
+Modular Forms of Several Variables
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Algorithms
+Introduction 
+Getting started
+Growth of functions
+Divide and conquer
+Probabilistic analysis and randomized algorithms
+Part 2 sorting and order statistics
+heapsort
+quicksort
+sorting in linear time
+order statistics and median
+Part 3 data structures
+elementary data structures
+hash tables
+binary search trees
+red black trees
+augmenting data structures
+Part 4 advanced algrorithm design and analysis
+dynamic programming
+greedy algorithms
+amortized analysis
+Part 5 advanced data structures
+B trees
+FIbonnacci heaps
+Boas trees
+Data structure for disjoint sets
+
+Computer organization and design
+Introduction
+instructions
+Arithmetic for computers
+Processor
+Memory hierarchy
+Parallel and cloud computing
+
+Computer architecture
+Fundamentals of quantitative analysis and design
+Memory hierarchy design
+Data level parallelism
+Instruction level parallelism
+Thread level parallelism
+Warehouse scale computers and data level parallelism
+Domain specific architecture
+
+OS
+introduction
+proccesses and threads
+memory management
+file systems
+IO
+deadlocks
+Virtualization and the Cloud
+dual processors systems
+Security
+
+On pascal Compilers
+WHAT A COMPILER DOES
+Pascal subset
+COMPILER ORGANIZATION
+LEXICAL ANALYSIS
+Syntax analysis
+SCOPE ANALYSIS
+Type ANALYSIS
+A PASCAL COMPUTER
+CODE GENERATION
+PErformance
+
+Database system concepts
+Introduction
+Part 1 relational languages
+Introduction to relational databases
+Beginner sql
+Intermediate sql
+Advanced sql
+Part 2 Database design
+E-R model
+Relational model
+Part 3 Applications design and development
+COmplex data types
+Application development
+Part 4 Big data analytics
+Big data
+Data analytics
+Part 5 Storage management and indexing
+PHysical storage systems
+Data storage structures
+Indexing
+Part 6 Query processing and optimization
+Query processing
+Query optimization
+Part 7 Trasanction management
+transactions
+concurrency control
+Recovery system
+Part 8 Parallel and distributed storage
+Database system architecture
+Parallel and distributed storage
+Parallel and distributed query processing 
+Parallel transaction processing
+Part 9 advanced topics
+Advanced indexing
+Advanced application development
+Blockchain databases
+
+Ethernet: Definitive guide
+Part I introduction to ethernet
+evolution of ethernet
+IEEE ethernet standards
+Ethernet system
+Etherent frame and full duplex mode
+auto negotiation
+power over the internet
+Part II ethernet media systems
+ethernet media signalling and energy efficienct ethernet
+10, 100 mb/s ethernet
+1, 10, 40, 100, 400 gb/s ethernet
+Part III Building an ethernet system
+structured cabling
+twisted pair cables and connectors
+fiber optic cables and connectors
+Part IV ethernet switches and network design
+ethernet switches
+network design with ethernet switches
+part V
+performance and troubleshooting
+ethernet performance
+network troubleshooting
+
+
+Economics is the study of resource allocation. What are the resources?
+
+Micro = studies how agents make economic decisions. It derives demand functions from preference models and supply function from costs. Then, it studies properties of different types markets. 
+There are 2 ways to model human preference: preference axioms, choice budgets.
+Demand function is derived from utility function
+cost functions represent supply
+Laws of supply and demand
+market is a space where supply and demand meet
+market equilibrium is an optimal price which supply and demand functions intersect
+There are various causes that hinders reaching market equilibrium 
+Curves can shift due to various reasons
+- Game Theory 
+
+
+Macro = studies the behavior of the aggregate market after combining all individual supplies and demands
+There is a method of combining individual supplies and demands
+
+Solow Growth model
+Infinite horizon and overlapping generations model
+Endogeneous growth
+Cross country income difference
+Real business cycle theory
+Nominal Rigidity
+Dynamic stochastic general equilibrium models of fluctuations
+Consumption
+Investment
+Financial markets and crises
+Unemployment
+Monetary policy
+Budget deficits and fiscal policy
+
+- Public
+- Finance
+- Growth and Development
+
+- International Trade
+World trade overview
+labor productivity and comparative advantage: Ricardian Model
+Specific factor and income distribution
+Resources and trade: Heckscher - Odin model
+Standard trade model
+External economies of scale and international location of production
+Firms in the global economy: export decisions, outsourcing, and multinational enterprises
+
+Part 2 International trade policy
+the instruments of the trade policy
+political economy of the trade policy
+developing countries and trade policy
+controversies in trade policy
+
+Part 3 Foreign exchange market
+National income and balance of payments
+Exchange rates and foreign exchange markets: asset approach
+Money, interest, foreign exchange
+Price levels and exchange rates in the long run
+Output and exchange rates in the short run
+Fixed exchange rates and government intervention
+
+Part 4 International macroeconomic policy
+International monetary system
+Optimum currency areas and European Experience
+Financial Globalization: opportunity and crisis
+Developing countries: growth, crisis, reform
+
+- Labor
+Labor demand
+Labor supply
+Labor equilibrium
+Compensating wage differentials
+Education
+Wage distribution
+Labor mobility
+Labor market discrimination
+Labor union
+Incentive pay
+Unemployment
+
+
+- Agriculture
+- Urban
+
+Econometrics
+History
+
+Banking
+- Investment banking
+- Risk and Compliance in banking
+- Risk and Shareholders value in Banking
+
+Finance
+- Investments
+- Corporate finance
+- Financial modelling
+- Standard and Poor's credit analysis
+
+
+
+
+
+
+
+
+
+Physics
+- Introductory
+Part 1 Mechanics
+Motion on a line
+- displacement, time, average velocity
+- instantaneous velocity
+- average and instantaneous acceleration
+- free falling objects
+Motion in 3 dimension
+- position, velocity, acceleration vectors
+- projectile motion
+- motion in a circle
+- relative velocity
+Newton's laws of motion
+- force and interaction
+- mass and weight
+Applying Newton's laws
+- friction forces
+Work and Kinetic Energy
+- work energy theorem
+- power
+Potential energy and conservation of energy
+- gravitational potential energy
+- elastic potential energy
+Momentum, impulse, and collision
+- conservation of momentum
+- center of mass
+Rotation of rigid bodies
+- angular velocity
+- parallel axis theorem
+- moment of inertia
+Dynamics of rotational motion
+- angular acceleration and momentum, conservation of angular momentum, work and power 
+Elasticity and equilibrium
+- center of gravity
+- stress, strain, elastic moduli
+Fluid mechanics
+- density
+- pressure
+- buoyancy
+- bernoulli's equation
+- viscocity and turbulence
+Gravitation
+- Newton and Kepler's laws
+- spherical mass distribution
+- black hole
+Periodic motion
+- damped oscillation
+
+Part 2 Waves and acoustics
+Mechanical waves
+Sound and hearing
+- Doppler effect
+
+Part 3 thermodynamics
+Temperature and heat
+- thermal equilibriuhm
+- quantity of heat
+Thermal properties of matter
+- equations of state
+- kinetic molecular model of ideal gas
+- heat capacity
+Laws of thermodynamics
+- internal energy
+- adiabatic process of an ideal gas
+- heat, internal combustion engine
+- carnot cycle
+
+Part 4 electromagnetism
+Electric Charge and field
+- Coulomb's law
+- electric field lines, dipoles
+Gauss law
+- electric flux
+Electric potential
+- equipotential surfaces
+- potential gradient
+Capacitors and dielectrics
+Current, resistance, and emf
+direct current circuit
+- Kirchoff's rules
+magnetic field and magnetic forces
+- magnetic field lines, flux
+- Hall effect
+magnetic source
+- Ampere's laws
+electromagnetic induction
+- Faraday's law
+- Lenz's law
+- MOtional EMF
+- Eddy current
+- displacement current and Maxwell's equations
+- superconductivity
+inductance
+- mutual inductance
+- Magnetic field energy
+alternating current
+electromagnetic waves
+
+Part 5 optics
+Nature and propagation of light
+- reflection, refraction
+- total internal reflection
+- dispersion
+- polarization
+- Huygen's principle
+Geometric optics
+Interference
+- coherent sources
+- 2 source interference
+- intensity
+Diffraction
+- 36.1 Fresnel and Fraunhofer Diffraction 
+- 36.2 Diffraction from a Single Slit
+- 36.5 The Diffraction Grating
+- Xray diffraction
+- 36.7 Circular Apertures and Resolving Power
+
+Part 6 Modern physics
+Relativity
+- 37.2 Relativity of Simultaneity
+- 37.3 Relativity of Time Intervals
+- 37.4 Relativity of Length 
+- 37.5 The Lorentz Transformations
+- 37.7 Relativistic Momentum 1265
+- 37.8 Relativistic Work and Energy 1267
+Photons: light waves behaving as particles
+- light absorbed as photons: The Photoelectric Effect
+- Light emitted as photons: xray production
+- Light scattered as photons: compton scattering and pair production
+- wave particle duality
+Particles behaving as waves
+- electron waves
+- atomic spectra
+- energy levels and Bohr model of the atom
+- continous spectra
+- Uncertainty principle
+Quantum mechanics: wave function
+- 40.1 Wave Functions and the One-Dimensional Schrödinger Equation
+- Potential wells
+- 40.4 Potential Barriers and Tunneling
+- Harmonic oscillator
+Quantum mechanics: atomic structure
+- the 3-Dimensional Schrödinger Equation
+- 41.3 The Hydrogen Atom 1395
+- 41.4 The Zeeman Effect 1403
+- 41.5 Electron Spin 1406
+- 41.6 Many-Electron Atoms and the Exclusion Principle 1413
+- 41.7 X-Ray Spectra 1420
+- 41.8 Quantum Entanglement 1423
+Molecules and condensed matter
+- 42.1 Types of Molecular Bonds 1436
+- 42.2 Molecular Spectra 1439
+- 42.3 Structure of Solids 1443
+- 42.4 Energy Bands 1446
+- 42.5 Free-Electron Model of Metals 1449
+Nuclear physics
+- 43.2 Nuclear Binding and Nuclear Structure 1475
+- 43.3 Nuclear Stability and Radioactivity 1480
+- 43.4 Activities and Half-Lives 1487
+- 43.5 Biological Effects of Radiation 1491
+- 43.6 Nuclear Reactions 1493
+- 43.7 Nuclear Fission 1496
+- 43.8 Nuclear Fusion 1500
+Particle physics and cosmology
+- 44.2 Particle Accelerators and Detectors 
+- Quarks and gluons
+
+Theoretical course in physics
+
+Part 1 Mechanics
+Equations of motion
+- principle of least action
+- LAgrangian for a free particle
+Integration of equations of motion
+- potential energy fom period of oscillation
+- reduced mass
+- Kepler's problem
+Collision between particles
+- Rutherford's formula
+- Small angle scattering
+Small oscillation
+- anharmonic oscillation
+Conservation laws
+- centre of mass
+- mechanical similarity
+Motion of a rigid body
+- inertia tensor
+- Eulerian angles
+- Euler's equation
+- asymmetrical top
+Canonical equations
+- Hamilton's equations
+- Routhian
+- Poisson brackets
+- Maupertius' principle
+- Liouville's theorem
+- Hamilton Jacobi equation
+- separation of the variables
+- adiabatic invariance
+- canonical variables
+- canonical transformation
+
+Part 2 Classical theory of fields
+principle of relativity
+- velocity of propagation of interaction
+- intervals
+- proper time
+- four vectors
+- 4d velocity
+relativistic mechanics
+- trasnformation of distribution functions
+- decay of particles
+- invariant cross section
+charges in electromagnetic fields
+- four potential of a field
+- gauge invariance
+- electromagnetic field tensor
+- invariants of the field
+electromagnetic field equations
+- action function of the EMF 
+- 4d current vector
+- equation of continuity
+- energy density and flux
+- energy momentum tensor
+- virial theorem
+constant EMF
+- dipole, multipole moment
+- Larmor's theorem
+EM waves
+- monochromatic plane waves
+- spectral resolution
+- fourier resolution of the electrostatic field
+- characteristic vibrations
+Propagation of light
+- angular eikonal
+- narrow bundles of rays
+- image formation with broad bundle of rays
+Field of moving charges
+- retarded potentials
+- Lienard Wiechert potential
+Radiation of EM waves
+- dipole radiation
+- quadrupole and magnetic dipole radiation
+- synchrotron radiation (magnetic bremsstrahlung)
+- radiation damping
+particle in a gravitational field
+- curvilinear coordinates
+-covariant differentiation
+- relation of the Crystoffel symbols to metric tensor
+Gravitational field equations
+- curvature tensor
+- Einsteins euqations
+- energy momentum pseudotensor of the gravitational field
+- synchroneous reference system
+- tetrad representation of the Einstein's equations
+Field of gravitating bodies
+- centally symmetric GF
+- gravitational collapse of dustlike sphere
+Gravitational waves
+- weak GW
+- GW in curved space time
+- strong GW
+- radiation of GW
+Relativistic cosmology
+- isotropic space
+- red shift
+- gravitational stability of an isotropic model
+- homogeneous space
+- flat anisotropic model
+- time singularity
+
+Part 3 Quantum mechanics
+Basic concepts
+- Uncertainty
+- operators
+- principle of superposition
+- continuous spectrum
+Energy and momentum
+- hamiltonian operator
+- stationary states
+- Heisenberg representation of operators
+- density matrix
+- uncertainty relations 
+Schrodinger's equation
+- current density
+- variational principle
+- linear oscillator
+- transmission coefficient
+Angular momentum
+- eigenvalues, eigenfunctions
+- parity of state
+Motion in a centrally symmetric field
+- spherical wave
+- resolution of a plane wave
+- motion in a Coulomb field 
+Perturbation theory
+- perturbations independent of time
+- secular equation
+- transition under the action of a periodic perturbation
+- transiions in the continuous spectrum
+- the uncertainty relation for energy
+- potential energy as a perturbation
+Quassi Classical case
+- Bohr and Sommerfeld's quantization rule
+- transitions under the action of adiabatic perturbation
+Spin
+- spin operator
+- spinors
+- operator of finite rotations
+- partial polarization of particles
+- time reversel and Kramers' theorem
+Identidy of particles
+- exchange interaction
+- second qunatization
+The atom
+- atomic energy levels
+- electron states in the atom
+- self consistent field
+- Thomas Fermi equation
+- wave functions of outer electrons
+- fine structure of atomic levels
+- Multipole moments
+Diatomic molecules
+- intersections of electron temrs
+- valency
+- singlet terms
+- multiplet terms
+- A doubling
+- pre dissociation
+Theory of symmetry
+- symmetry transformation
+- transformation groups
+- Point groups
+- representation of goroups
+- irreducible representation of point groups
+- continuous groups
+- 2 valued representation of finite point groups
+Polyatomic molecules
+- molecular vibration and its energy levels
+- quantization of the rotation of a top
+Addition of angular momenta
+- 3j symbol
+- matrix elements of tensor
+- 6j symbol
+- matrix elements for axially symmetric system
+MOtion in a magnetic field
+- uniform magnetic field
+- spin in a variable magnetic field
+- current density in a magnetic field
+Nuclear structure
+- sotopic variance
+- shell model
+- non spherical nuclei
+- isotopic shift
+- hyperfine structure of atomic levels
+Elastic collision
+- unitarity condition for scaterring
+- BOrn's formula
+- analytical properties of the scattering amplitude
+- dispersion relation
+- resonance scattering at low energies
+- scattering with spin orbit interaction
+- Regge poles
+Inelastic collision
+- Breit and Winger's formula
+- effective retardation
+Math appendice
+- Hermite, LEgendre polynomials
+- Airy, confluent hypergeometric function
+
+Part 4 Quantum electrodynamics 
+Photons
+- parity of photons
+- spherical waves of photons
+- 2 photon system
+Bosons
+- strictly neutral particles
+- Helicity state of a particle
+Fermions
+- 4 dimensional spinors
+- inversion of spinors
+- Dirac's equation in the spinor representation
+- symmetrical form of Dirac's equation
+- algebra of Dirac matrices
+- Plan, spherical waves
+- charge conjugation and time reversal of spinors
+- internal symmetry of particles
+- bilinear forms
+- polarization density matrix
+Particles in an external field
+- fine structure of levels of the hydrogen atom
+- motion of spin in an external field
+- neutron scattering
+Radiation 
+- photodisintegration of the deuteron
+Ration scattering
+- natural width of spectral lines
+- resonance fluorescence
+scattering matrix
+- scattering amplitude
+- kinematic invariants
+- expansion in partial amplitude
+- symmetry of helicity scattering amplitude
+- unitarity condition
+invariant perturbation theory
+- chronological product
+- crossing invariance
+- virtual partics
+interaction of electrons
+- ioinization losses of fast particles
+- Breit's equation
+- Positronium
+interaction of electrons with photons
+- synchrotron radiation
+- electron nucleus Bremsstrahlung
+- method of equivalent photons
+exact propagators and vertex parts
+- exact photon propagator
+- field operators in Heisenberg representation
+- self energy function  of the photon
+- Dyson's equations
+- Ward's identity
+- regularization of Feynman integral
+radiative corrections
+- polarization operator
+- anomalous magnetic moment of the electron
+- mass operator
+- electron scattering in an external field in the second BOrn approximation
+- radiative shift of mesic atom levels
+- double dispersion relation
+- coherent scattering of a photon in the field of a nucleus
+asymptotic formula of quantum electrodynamics
+electrodynamics of hadrons
+- low energy theorem for bremsstrahlung
+
+Part 5 Statistical physics
+1. The Fundamental Principles of Statistical Physics
+2. Thermodynamic Quantities
+3. The Gibbs Distribution
+4. Ideal Gases
+5. Fermi and Bose Distributions
+6. Solids
+7. Nonideal Gases
+8. Phase Equilibriums
+9. Solutions
+10. Chemical Reactions
+11. Properties of Matter in Very High Density
+12. Fluctuations
+13. Symmetry of Crystals
+14. Phase Transitions of the Second Kind and Critical Phenomena
+15. Surfaces
+
+Part 2
+1. The Normal Fermi Liquid
+2. Green's Functions in a Fermi System at t=0
+3. Superfluidity 
+4. Green's Functions at Nonzero Temperatures
+5. Superconductivity 
+6. Electrons in the Crystal Lattice
+7. Magnetism
+8. Electromagnetic Fluctuations
+9. Hydrodynamic Fluctuations
+
+Part 6 Fluid Mechanics
+Ideal fluids
+Viscous fluids
+Turbulence
+Boundary layers
+Thermal conduction in fluids
+Diffusion
+Surface phenomena
+Sound
+Shock waves
+1D gas flow
+Intersection of surfaces of discontinuity
+2D gas flow
+flow past finite bodies
+Fluid dynamics of combustion
+Relativistic fluid dynamics
+Dynamics of superfluids
+
+Part 7 Theory of Elesticity
+Fundamental equations
+Equilibrium of rods and plates
+elastic waves
+thermal conduction and viscocity in solids
+
+Part 8 Electrodynamics of continuous media
+Electrostatics of conductors
+Electrostatics of dielectrics
+Steady current
+static magnetic field
+ferromagnetism and antiferromagnetism
+superconductivity
+quasi static electromagnetic field
+magnetohydrodynamics
+electromagnetic wave equations
+propagation of electromagnetic waves
+electromagnetic waves in anisotropic media
+spatial dispersion
+non linear optics
+passage of fast particles through matter
+scattering of electromagnetic waves
+diffraction of xrays in crystals
+
+Part 10 Physical kinetics
+Kinetic theory of gases
+diffusion approximation
+collisionless plasmas
+collision in plasmas
+plasmas in magnetic fields
+instability theory
+insulators
+quantum liquids
+metals
+diagram techniques for nonequilibrum systems
+superconductors
+kinetics of phase transitions
+
+
+- Mechanics
+Newton's laws of motion
+Projectiles and charged particles
+Momentum and angular momentum
+energy
+oscillation
+Calculus of variations
+Lagrange equation
+2 central body problem
+Non-inertial mechanics
+Rotational Motion of Rigid Bodies
+Coupled Oscillators and Normal Modes
+
+Part 2 Further topics
+Nonlinear mechanics and chaos
+Hamiltonian mechanics
+Collision theory
+Special relativity
+Continuum Mechanics
+
+
+- Electrodynamics
+Electrostatics
+Potentials
+Electric field in a matter
+Magnetostatics
+Magnetic field in a matter
+Electrodynamics
+Conservation laws
+Eletromagnetic waves
+Potentials and fields
+Radiation
+Electrodynamics and relativity
+
+- Quantum mechanics
+Wave function
+Time independent schrodinger equation
+Formalism
+Quantum mechanics in 3D
+Identical particles
+Symmetries and conservation laws
+
+Part 2 Applications
+Time independent Perturbation theory
+Variational principle
+WKB approximation
+Scattering 
+Quantum dynamics
+
+
+- Thermal Physics
+states of a model system
+Entropy and temperature
+Helmholtz free energy and Boltzmann distribution
+Thermal radiation and Planck distribution
+Chemical potential and Gibbs distribution
+Ideal gase
+Fermi and Bose gases
+Heat and work
+Gibbs free energy and chemical reaction
+Phase transformation
+Binary mixtures
+Cryogenics
+Semiconductor statistics
+Kinetic theory
+Propagation
+
+- Elementary particles
+
+- Cosmology
+Fundamental observations
+Newton vs Einstein 
+Cosmic dynamics
+Model universes
+Measuring cosmological parameters
+Dark matter
+Cosmic Microwave background
+Nucleosynthesis and the early universe
+Inflation and the very early universe
+Structure formation: gravitational instability
+Structure formation: baryons and photons
+
+Expansion of the universe
+Cosmic microwave radiation background
+The early universe
+Inflation
+General Theory of small fluctuations
+Evolution of cosmological fluctuations
+Anisotropies in the sky
+Growth of structure
+Gravitational lense
+Inflation as the origin of cosmological fluctuations
+
+- Astrophysics
+Part 1 Tools of astronomy
+Celestial sphere
+celestial mechanics
+Continuous spectrum of light
+Theory of special relativity
+Interaction of light and matter
+Telescopes
+
+Part 2 Nature of the stars
+Binary systems and stellar parameters
+Classification of stellar spectra
+Stellar atmoshperes
+Interior of stars
+The sun
+Interstellar medium and formation of stars
+Main sequence and post main sequence stellar evolution
+Stellar pulsation
+Fate of massive stars
+Degenerate remnants of stars
+General relativity and black holes
+Close binary star systems
+
+Part 3 Solar system
+Physical processes in the solar system
+terrestrial planets
+Realm of the big planets
+Minor bodies in the solar system
+formation of planetary systems
+
+Part 4 Universe
+Milky way galaxy
+nature of galaxies
+Galactic evolution
+Structure of the universe
+Active galaxies
+Cosmology
+The early universe
+
+
+- History
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Programming languages
+- C
+Types, operators, and exrpessions 
+control flow
+functions and program structure
+pointers and arrays
+structures
+Input and output
+
+- Python
+Variables and basic data types
+introducing lists
+working with lists
+if statements
+functions
+dictionaries
+user input and while loop
+Files and exception handling
+Classes
+
+python basics
+Flow control
+Functions
+Lists
+Dictionaries and structuring data
+Manipulating strings
+
+Part 2 Automating tasks
+RegEx
+Input validation
+Reading and writing files
+Organizing files
+Debugging
+Web scraping
+Working with excel, google sheets, pdf and word documents, csv and json files
+Time keeping, schedulling tasks, and launching programs
+Sending email and text messages
+Manipulating images
+Controlling the keyboard and mouse with GUI
+
+- C++
+classes and objects
+Namespace
+
+- Javascript
+Higher order functions
+Asynchronous programming
+DOM
+Event handling
+
+
+- Java
+OOP
+
+- Haskell
+lambda 
+string
+basic datatypes
+types
+typeclasses
+Recursion
+Lists
+Folding lists
+algebraic datatypes
+Monoid and semigroups
+Functor
+applicative
+Monads
+Foldable
+Transversable
+
+
+- Linux
+Navigation
+Exploring the system
+Manipulating files
+Working with commands
+Redirection
+Seeing the world as the shell sees it
+Advanced keyboard tricks
+Permission
+Processes
+
+Part 2 
+Package management
+Storage media
+Networking
+Searching for files
+Archiving and backup
+RegEx
+Text processing
+Formatting output
+printing
+Compilling programs
+
+- Assembly
+x86 computer architecture
+Assambly fundamentals
+Addresing, data transfer, and
+Integer arithmetic
+Procedures
+Conditional processing
+Advanced procedures
+Strings and Arrays
+Macros and Structures
+
+- Coq
+
+- Verilog
+Basic concepts
+Hierarchical modelling
+Modules and ports
+Gate level modelling
+Dataflow modelling
+Behavioral modelling
+Tasks and functions
+
+Part 2 advanced topics
+Timing and delays
+Switch level modelling
+User defined primitives
+PLI
+Logic Synthesis
+Advanced verification techniques
+
+
+- Algorith and data structures
+Role of algorithms
+getting started
+Growth of functions
+divide and conquer
+probabilistic analysis and randomized algorithms
+
+Part 2 sorting and order statistics
+heapsort
+quicksort
+sorting in linear time
+median and order statistics
+
+Part 3 data structures
+elementary data structures
+hash tables
+binary search trees
+red black trees
+Augmenting data structures
+
+Part 4 advance algrorithm design and analysis
+dynamic programming 
+greedy algorithm
+amortized analysis
+
+Part 5 advanced data structures
+b-trees
+Fibonnaci heaps
+Boas trees
+Data structure for disjoint sets
+
+Introduction
+Information structures
+Random numbers
+Arithmetic
+Searching
+Sorting
+Combinatorial searching
+
+- Networking
+Introduction
+Application layer
+Transport layer
+Network layer: data plane
+Network layer: control plane
+Link layer
+Wireless and mobile access
+Security
+Multimedia networking
+
+- Computer architecture and design
+Boolean logic
+Boolean arithmetic
+Sequential logic
+Machine language
+Computer architecture
+Assembler
+Virtual Machine I: stack arithmetic
+Virtual Machine II: program control
+Compiler I: syntax analysis
+Compiler II: code generation
+High level language
+Operating system
+
+Introduction
+Instructions: the language of the computer
+Arithmetic for computers
+Processor
+Large and fast: exploiting the memory hierarchy
+Parallel and cloud computing
+
+Introduction
+Sequential logic design
+Combinatorial logic design
+Hardware description language
+Digital building blocks
+Architecture
+Microarchitecture
+Memory and I/O systems
+
+Fundamentals of quantitative analysis and design
+Memory hierarchy design
+Data level parallelism
+Instruction level parallelism
+Thread level parallelism
+Warehouse scale computers and data level parallelism
+Domain specific architecture
+
+
+- Operating system
+Introduction
+Processes and threads
+Memory management
+File system
+Input and output
+Deadlocks
+Virtualization and the cloud
+Dual processor systems
+Security
+
+- Database
+Introduction
+
+Part 1 relational languages
+Introduction to relational databases
+Beginner sql
+Intermediate sql
+Advanced sql
+
+Part 2 Database design
+E-R model
+Relational model
+
+Part 3 Applications design and development
+COmplex data types
+Application development
+
+Part 4 Big data analytics
+Big data
+Data analytics
+
+Part 5 Storage management and indexing
+PHysical storage systems
+Data storage structures
+Indexing
+
+Part 6 Query processing and optimization
+Query processing
+Query optimization
+
+Part 7 Trasanction management
+transactions
+concurrency control
+Recovery system
+
+Part 8 Parallel and distributed storage
+Database system architecture
+Parallel and distributed storage
+Parallel and distributed query processing 
+Parallel transaction processing
+
+Part 9 advanced topics
+Advanced indexing
+Advanced application development
+Blockchain databases
+
+- Compiler
+Introduction
+Simple syntax directed translator
+Lexical analysis
+Syntax analysis
+Intermediate code generation
+Syntax directed translation
+Runtime environments
+Code generation
+Machine independent optimizations
+Instruction level parallelism
+Optimizing for parallelism and locality
+Interprocedural analysis
+
+
+
+Hacking
+
+- AI
+Introduction
+Intelligent agents
+
+Part 1 Problem solving
+Problem solving by searching
+Beyond classical search
+Adverserial search
+Constraint satisfaction problems
+
+Part 2 Knowledge, reasoning and planning
+Logical agents
+First order logic
+Inference in first order logic
+Classical planning
+Planning and acting in real world
+Knowledge representation
+
+Part 3 Uncertain knowledge and reasoning
+Quantifying Uncertainty
+Probabilistic reasoning
+Probabilistic reasoning over time
+Making simple decisions
+Making complex decisions
+
+Part 4 LEarning 
+LEarning from examples
+Knowledge in learning
+Learning probabilistic models
+Reinforcement learning
+
+Part 5 communicating, perceiving, and acting
+NLP
+Natural language for communication
+Perception
+Robotics
+
+Part 6 conclusion
+Philosophical foundations
+AI: present and future
+
+- Deep learning
+Introduction
+Linear algebra
+Probability and information theory
+numerical computation
+Machine learing basics
+
+Part 1 Deep networks
+Deeo feedforward networks
+Regularization for deep learning
+Optimization for training deep models
+Convolutional networks
+Sequence modelling: recurrent and recursive nets
+
+Part 2 Deep learning research
+Linear factor models
+Autoencoders
+Representation learning
+Structured probabilistic models
+Monte Carlo methods
+Confronting the partition function
+Approximate inference
+Deep generative models
+
+- Pattern recognition and machine learning
+INtroduction
+Probability distribution
+Linear models for regression
+Linear models for classication
+Neural Networks
+Kernel method
+Sparse kernel machines
+Graphical models
+Mixture models and EM
+Approximate Inference
+Sampling methods
+Continuous latent variables
+Sequential data
+Combining model
+
+- Machine learning with Sci-Kit
+Part 1 machine learning fundamentals
+Machine learning landscape
+Classification
+Training models
+Support vector machines
+Decision trees
+Ensemble learning with random forests
+Dimensionality reduction
+Unsupervised learning techniques
+
+Part 2 Neural networks and deep learning
+Introduction to artificial neural networks with KEras
+Training deep neural networks
+Custom models and training with Tensorflow
+Loading and preprocessing data with Tensorflow
+Deep computer vision using convolutional networks
+Processing sequences using RNNs and CNNs
+NLP with RNNs and attention
+Representation learning and generative learning using autoencoders and GANs
+Reinforcement learning
+Training and deploying tensorflow models at scale
+
+- Machine learning: a probabilistic perspective
+Introduction
+Probability
+Generative models for discrete data
+Gaussian models
+Bayesian statistics
+Frequentist statistics
+Linear regression
+Logistic regression
+Generalized linear models and the exponential family
+Directed graphical models (Bayes nets)
+Mixture models and the EM algorithm
+Latent linear models
+Sparse linear models
+Kernel
+Gaussian processes
+
+- Elements of statistical learning
+overview of supervised learning
+linear methods for regression
+linear methods for classification
+basic expansion and regularization
+kernel smoothing methods
+model assessment and selection
+model inference and averaging
+Additive Models, Trees, and Related Methods
+Boosting and Additive Trees
+Neural networks
+Support vector machines and flexible discriminants
+Prototype methods and nearest neighbor
+Unsupervised learning
+Random forests
+Ensemble learning
+Undirected graphical models
+High dimensional problems
+
+
+- Reinforcement learning
+Introduction
+Multi armed bandits
+finite markov decision processes
+dynamic programming
+Monte carlo methods
+Temporal difference learning
+n step bootstrapping
+Planning and learning with tabular methods
+
+Part 2 Approximate solution methods
+On policy prediction with approximation
+On policy control with approximation
+On policy methods with approximation
+Eligibility traces
+Policy gradient methods
+Psychology
+Neuroscience
+Applications and case studies
+Frontiers
+
+- Computer vision
+Image formation
+Image processing
+Feature detection and matching
+Segmentation
+Feature based alignment
+Structure from motion
+Dense motion estimation
+Image stitching
+Computational photography
+Stereo correspondence
+3D reconstruction
+Image based rendering
+Recognition
+Conclusion
+
+- Speech and language
+N gram models
+
+- Foundations of statistical natural language processing
+Introduction
+MAthematical foundations
+Linguistic essential
+Corpus based work
+
+Part 2 words
+Collocations
+Statistical inference: n gram models over sparse data
+Word sense disambiguation
+Lexical acquisition
+
+Part 3 grammar
+Markov models
+Part of speech tagging
+Probalistic context free grammars
+Probability parsing
+
+PArt 4 applications and techniques
+statistical alignment with machine translation
+Clustering
+Topics in information retrieval
+Text categorization
+
+- Data Science
+Introduction
+High dimensional space
+Best fit subspaces and singular value decomposition
+Random walks and markov chains
+Machine learning
+Algorithms for massive data problems: streaming, sketching, and sampling
+Clustering
+Random graphs
+Topic Models, Nonnegative Matrix Factorization, Hidden Markov Models, and Graphical Models
+Other topics
+Wavelets
+Background material
+
+What is data science
+MAthematical preliminaries
+Data munging
+Scores and rankings
+Statistical analysis
+Visualizing data
+Mathematical models
+Linear algebra
+Linear and logistic regression
+Distance and network methods
+Machine learning
+Big data: achieving scale
+Coda
+
+Introduction
+Getting to know your data
+Data preprocessing
+Data warehousing and online analytical processing
+Data cube technology
+Mining frequent patterns, associations, and correlations: basic concepts and methods
+Advanced pattern mining
+Classification: basic concepts
+Classification: advanced methods
+Cluster analysis
+Advanced cluster analysis
+Outlier detection
+Data mining trends and research frontiers
+
+Part 1 General strategies
+A short tour of predictive modelling process
+Data preprocessing
+Over fitting and model tuning
+
+Part 2 regression model
+Measuring performance in regression models
+Linear regression and its cousins
+NOnlinear regression models
+Regression trees and rule based models
+A summary of solubility models
+
+Part 3 Classification models
+Measuring performance in classification models
+Discriminant analysis and other linear classification models
+Nonlinear classification models
+Classification trees and rule based models
+A summary of grant application models
+Remedies for Severe Class Imbalance
+
+Part 4 Other Considerations
+Measuring predictor importance
+An introduction to feature selection
+Factors That Can Affect Model Performance 
+
+Blockchain
+Introduction
+Symmetric key
+Public key
+Consensus algorithm
+Decentralization
+Introducing bitcoin
+Bitcoin network and payment system
+Bitcoin client API
+Alternative coins
+Smart contract
+Introducing ethereum
+Ethereum development environment
+development framework
+Serenity
+Hyperledger
+Tokenization
+Web3
+
+Graphics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Math
+- What is mathematics
+Natural numbers
+Number systems
+eometrical constructions (algebra of number fields), projective geometry, axiomatics, non-euclidean geometry topology
+Functions and limits
+Maxima and Minima
+Calculus
+Recent development
+
+- A Course in Pure Mathematics
+Real variables
+Functions of real variables
+Complex numbers
+Limits of functions of positive integer variables
+Limits of functions of continuous variables, continuous functions
+Derivatives and integrals
+THE CONVERGENCE OF INFINITE SERIES AND INFINITE INTEGRALS
+LOGARITHMIC AND EXPONENTIAL FUNCTIONS OF A REAL VARIABLE
+GENERAL THEORY OF THE LOGARITHMIC, EXPONENTIAL, AND CIRCULAR FUNCTIONS
+
+- Mathematics its contents, methods, and meaning
+General view of mathematics
+Analysis
+Analytic geometry
+Algebra
+Ordinary differential equations
+Partial differential equations
+Curves and surfaces
+Calculus of variation
+Functions of complex variable
+PRime numbers
+Theory of probability
+Approximation of functinos
+Theory of functions of real variable
+Linear algebra
+Non-euclidean geometry
+Topology
+Functional analysis
+Groups and other algebraic systems
+
+
+- Statistics
+Probability theory
+transformations and expectation
+Common families of distribution
+Multiple random variables
+Properties of random sample
+Principles of data reduction
+Point estimation
+Hypothesis testing
+Interval estimation
+Asymptotic evaluation
+Analysis for variance and regression
+Regression models
+
+- Linear algebra
+Vector space
+Finite dimensional vector space
+Linear maps
+Polynomials
+Eigenvector and eigenvalues
+Inner product spaces
+Operations on inner product spaces
+Operations on complex vector spaces
+Operations on real vector spaces
+Trace and determinant
+
+- Abstract algebra
+
+- Number theory
+Series of prime numbers
+Farey series and Minkowski theorem
+Irrational numbers
+Congruences and residies
+Fermat's theorem
+General properties of congruences
+CONGRUENCES TO COMPOSITE MODULI
+Representing numbers by decimals
+CONTINUED FRACTIONS
+Approximation of irrational numbers by rationals
+THE FUNDAMENTAL THEOREM OF ARITHMETIC 
+SOME DIOPHANTINE EQUATIONS
+QUADRATIC FIELDS
+THE ARITHMETICAL FUNCTIONS
+GENERATING FUNCTIONS OF ARITHMETICAL FUNCTIONS
+THE ORDER OF MAGNITUDE OF ARITHMETICAL FUNCTIONS
+PARTITIONS
+THE REPRESENTATION OF A NUMBER BY TWO OR FOUR SQUARES
+REPRESENTATION BY CUBES AND HIGHER POWERS
+Kronecker's theorem
+GEOMETRY OF NUMBERS
+ELLIPTIC CURVES
+
+- Set theory
+1. Sets
+2. Relations, Functions, and Ordering
+3. Natural Numbers
+4. Finite, Countable, Uncountable Sets
+5. Cardinal Numbers
+6. Ordinal Numbers
+7. Alephs
+8. The Axiom of Choice
+9. Arithmetic of Cardinal Numbers
+10. Sets of Real Numbers
+11. Filters and Ultrafilters
+12. Combinatorial Set Theory
+13. Large Cardinals
+14. Axiom of Foundations
+15. The Axiomatic Set Theory
+
+- Topology
+Sets and logic
+Topological space and continuous functinos
+Connectedness and compactness
+Countability and separation axioms
+Tychonoff theorem
+Paracompactness and metrization theorems 
+Complete metric spaces and function spaces
+Bayes spaces and dimension theory
+Fundamental group
+Separation theorems
+Seifert van kampen theorem
+Classification of covering spaces
+Classification of surfaces
+
+- Calculus
+The concept of integral calculus
+Continuous functions
+Introduction to differential calculus
+The relation between differentiation and integration
+THE LOGARITHM, THE EXPONENTIAL, AND THE INVERSE TRIGONOMETRIC FUNCTIONS
+POLYNOMIAL APPROXIMATIONS TO FUNCTIONS
+Differential equations
+COMPLEX NUMBERS
+SEQUENCES, INFINITE SERIES, IMPROPER INTEGRALS
+Sequence and series of functions
+Vector algebra
+APPLICATIONS OF VECTOR ALGEBRA TO ANALYTIC GEOMETRY
+CALCULUS OF VECTOR-VALUED FUNCTIONS
+LINEAR SPACES
+LINEAR TRANSFORMATIONS AND MATRICES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Physics
+- University physics
+- A course of theoretical physics
+- Feynamn lectures on physics
+- Cultural History of physics
+
+Mechanics
+- Classical Mechanics
+
+Different types of motion (linear, 3d, rotational, projectile, orbital, periodic)
+Force, mass
+Velocity, acceleration, momentum, impulse, frictionm collision
+kinetic and potential energy, work, conservation laws
+Angular parameters, torque
+gravity, weight, free fall
+fluid dynamics
+equilibrium, elasticity
+nonlinear mechanics, hamiltonian mechanics
+
+Waves and Sound
+- Vibrations and waves
+- An Introduction to the Mathematical Theory of Waves
+
+superposition of periodic motion
+free vibrations
+forced vibrations and resonance
+coupled oscillators and normal modes
+Fourier analysis
+progressive waves
+boundary effects
+
+travelling and standing waves
+Korteweg-de Vries equation
+sine gordon equation
+wave equation and its D'alembert's solution, standing wave solution
+vibrations of a semi infinite string
+Charasteristic lines
+gradient catastrophes and breaking times
+shock waves, viscosity methods 
+rarefaction waves
+
+Thermodynamics
+- Thermal Physics
+
+temperature
+phase transformation
+helmholtz and gibbs free energy
+laws of thermodynamcs
+gases and Kinetic theory of gases
+entropy
+thermal radiation
+planck, boltzmann, gibbs distribution 
+Fermi, bose gases
+binary mixture
+
+Electromagnetics
+- Introduction to electrodynamics
+- Fundamentals of applied electromagnetics
+
+charge
+induction
+current, voltage
+capacitor, dielectrics, resistor, and circuit
+magnetism
+electromagnetic waves
+radiation, scattering
+
+waves and phasors
+Maxwell’s Equations for Time-Varying Fields
+Plane-Wave Propagation
+
+Optics
+- Optics
+- Principles of Optics_ 60th Anniversary Edition
+- Introduction to Fourier Optics
+- The Quantum Theory of Light
+
+light, geometric optics
+interference
+diffraction
+
+polarization
+Fourier optics
+Coherence theory
+Lasers, holography
+Nonlinear optics
+
+Geometrical theory of optical imaging, aberrations
+Image forming instruments
+Interferometers
+Diffraction theory of aberrations
+partially coherent light
+diffraction by ultrasonic waves
+scattering from nonhomogenous media
+optics of metals, crystals
+
+Planck's radiation law and the Einstein coefficients 
+Classical theory of optical fluctuations and coherence
+Single, multiple, continuous-mode quantum optics
+Optical generation, attenuation and amplification
+Resonance fluorescence and light scattering 
+
+Quantum Physics
+- Introduction to quantum mechanics
+
+photons, light waves
+relativity
+wave function, schrodinger equation
+atomic structure
+nuclear physics
+
+identical particles
+symmetry and conservation laws
+perturbation theory
+variational principle
+WKB approximation
+Scattering 
+
+Particle Physics
+- introduction to elementary particles
+- modern particle physics
+
+atomic structure
+electron spin
+neutrino oscillations
+Gauge theories
+weak interaction
+dirac equation
+decay rates
+Electron–proton elastic scattering
+electron positron annhilation
+chromodynamics
+CP violation and weak hadronic interactions
+Electroweak unification
+standard model
+
+Biophysics
+- Physical Biology of the Cell (2nd Edition)
+- Biophysical Chemistry_ Part I_ The Conformation of Biological Macromolecules
+
+mechanical and chemical equilibrium in cells
+2 state systems: from ion channels to cooperative binding
+electrostatics for salty solutions
+beam theory
+rate equations
+molecular motors
+HOdgkin-HUxley model
+
+conformational analysis
+
+Geophysics
+- Fundamentals of Geophysics
+- Using Geochemical Data
+- Geological Engineering
+
+plate techtonics
+gravity surveying
+rheology
+seismology
+geochronology
+Geolectricity
+Paleomagnetism
+
+geochemical data
+major, trace element data
+Radiogenic isotope data
+stable isotope data
+
+rock mechanics
+seismic hazard
+
+cosmology
+- Cosmology
+- Introduction to cosmology
+- Introduction to astrophysics
+
+model universe
+nucleosynthesis and inflation
+expansion
+CMB
+dark matter
+gravitational lense
+structure formation: Gravitational instability, baryon, photon
+Star systems
+- stellar spectra
+- atmosphere
+- interior
+- The Interstellar Medium and Star Formation 
+- Main Sequence and Post-Main-Sequence Stellar Evolution
+- stellar pulsation
+Planets
+Galaxies
+- milky way
+
+General relativity
+- Spacetime and Geometry: an introduction to general relativity
+
+flat and curved spacetime, special relativity, lorentz transformation, classical field theory
+manifold, curvature, gravity
+Einstein's field equation, Schwarzschild's solution, Schwarzschild black hole
+blackhole, gravitational radiation
+Quantum field theory
+
+Computational physics
+- Computational physics: oroblem solving with python
+- Computational problems for physics: with guided solutions using Python
+
+errors and uncertainties in computations
+monte carle: randomness, walks, and decays
+integration errors
+matrix computing
+Trial-and-Error Searching and Data Fitting
+Solving Differential Equations: Nonlinear Oscillations 1
+Wavelet
+Nonlinear Population Dynamics
+Continuous Nonlinear Dynamics
+Fractals and Statistical Growth Models
+Thermodynamic Simulations and Feynman Path Integrals 4
+PDE Review and Electrostatics via Finite Differences and Electrostatics via Finite Differences
+Heat Flow via Time Stepping
+Wave Equations I: Strings and Membranes
+Wave Equations II: Quantum Packets and Electromagnetic
+Electrostatics via Finite Elements
+Shocks Waves and Solitons
+Fluid Dynamics
+Integral Equations of Quantum Mechanics 5
+
+Physical engineering
+Electrical Engineering
+- Beginner's guide to reading schematics
+
+block diagram, complex circuits, diagrams for building and testing, schematic symbols, resistor color code
+
+Circuits 
+- Fundamentals of electric circuits
+- Microelectronic circuits
+- Design of analog CMOS integrated circuits
+- Architecting High-Performance Embedded Systems Design and build high-performance real-time digital systems based on FPGAs and custom circuits
+- Communication circuits: analysis and design
+
+DC circuit
+electrical concepts and laws
+methods of analysis
+circuit theorems
+Opamps, capacitor, inductors
+first, second order circuit
+
+AC circuit
+sinusoids and phasors
+sinusoidal steady state analysis
+AC power analysis
+3 phase circuits, Magnetically Coupled Circuits
+Frequency Response
+
+Advanced Circuit Analysis
+Laplace Transform, Fourier Series, Fourier Transform, Two-Port Networks
+
+Microelectronic circuits
+diode, Mosfets, BJT, transistor amplifier, 
+
+Analog integrated circuits
+IC amplifiers, differential and multistage amplifier, oscillators
+
+Digital IC
+CMOS
+digital design: power, speed, and area
+Memory and clocking circuits
+
+Communication circuit
+broadband transformer like coupling network
+nonlinear controlled sources
+mixers
+generation of FM signals
+
+PCB
+- Printed circuits handbook
+- High speed digital design: a handbook of black magic
+
+supply chain
+materials components, properties, performance, selection, lead free assembly
+lamination
+high density interconnection
+fabrication, laser drilling, precision interconnect, electroplating, etching, solder mask, routing and v scoring, 
+bare board test
+nonsolder interconnection, press-fit interconnection, pressure interconnect land grid array
+reliability, conductive anodic filament formation, microvia PCB
+flexible circuit, multilayer flex and rigid flex,
+
+high speed properties of logic gates
+transmission lines
+ground planes and layer stacking
+vias
+connectors
+ribbon cables
+clock distribution, oscillations
+
+Audio
+- small signal audio design
+- audio power amplifier design
+
+electronic signals 
+opamps
+filters
+preamplifier architectures
+Moving magnet inputs: levels and RIAA equalization
+moving coil head amplifier
+guitar preamplifier
+volume, balance, and tone control
+mixer architecture
+headphone, microphone preamplifier
+line input, output
+signal switching
+level indication and metering
+
+Distortion
+speed, slew rate
+power dissipation
+cross over displacement
+Thermal compensation, and thermal dynamics
+DC servo
+PSRR
+layout, grounding, and cooling
+
+power systems
+- Power system analysis and design
+
+power transformer
+power flow
+symmetrical fault
+system protection
+Transient Stability
+Power System Controls 7
+Transmission Lines
+power distribution
+
+
+Electric Motors
+- Electric Motors and Drives Fundamentals_ Types and Applications
+- Industrial Electricity and Motor Controls
+
+Power electronic converters for motor drives
+DC motor drives
+Induction motors—Rotating field, slip and torque
+Variable frequency operation of induction motors
+Field oriented control of induction motors
+Synchronous, permanent magnet and reluctance motors and drives
+Stepping and switched reluctance motors
+Motor/drive selection
+
+solenoids, valves
+relays
+timers and sensors
+solid state reduced voltage starters
+3 phase controllers
+
+signal and system
+- signals and systems
+- linear systems and signals
+
+linear time invariant systems
+Fourier series representation of periodic signals
+continuous time fourier transform
+time and frequency characterization
+laplace transform
+z transform
+linear feedback systems
+STATE-SPACE ANALYSIS
+
+fourier series and transform
+laplace, Z transform
+
+
+photonics
+- Fundamentals of photonics
+- Optoelectronics and Photonics
+
+optics
+ray,wave,beam,fourier,electromagnetic,polarization,photonic-crystal,metal and metamaterial,guided-wave,fiber,resonator,statistical,photon optics
+
+photonics
+laser amplifier
+semiconductor optics, leds and laser diodes
+photodetector
+acousto, electro, nonlinear, ultrafast optics
+optical interconnects and switches
+optical fiber communication
+
+dielectric wave guide and optical fiber
+Optical Amplifiers
+
+electronics
+- Art of electronics
+- Grob's basic electronics
+- Practical electronics of inventors
+- Green electronics
+- Fundamentals of microelectronics
+
+Electricity
+Ohm’s Law
+Voltage Dividers and Current Dividers
+Kirchhoff ’s Laws
+Network Theorems
+Capacitive Reactance 
+Resonance 
+Thyristors 
+grounds
+microcontroller
+programmable logic
+motor
+modular electronics
+
+bipolar, field effect transistors
+precision circuit
+oscillators and timers
+logic interfacing
+CASCODE STAGES AND CURRENT MIRRORS 
+
+HVAC
+- Electricity for Refrigeration, Heating and Air Conditioning
+
+thermostats, pressure switches, and other electronic control devices
+heating control devices
+air conditioning control systems
+
+RF electronics
+- Fundamentals of microwave and rf design
+- RF microelectronics
+
+microwave
+antennas, rf link
+Planar Transmission Lines, Extraordinary Transmission Line Effects, Coupled Lines and Applications
+Graphical Network Analysis
+Impedance Matching
+
+TRANSCEIVER ARCHITECTURES
+PASSIVE DEVICES
+PHASE-LOCKED LOOPS
+INTEGER, Fractional-N FREQUENCY SYNTHESIZERS
+
+
+Antenna 
+- Antenna theory
+- ARRL antenna book for radio communications
+
+Figure of merit antennas
+radiation integrals and auxillary potential functions
+linear wire antennas
+loop antennas
+arrays: linear, planar, circular
+anthena synthesis and continuous sources
+moment method
+broadband dipoles
+travelling waves and broadband antennas
+Frequency independed antennas, antenna minitiurization, and fractal antennas
+aperture antennas
+horn antennas
+microstrip and mobile comm antenna
+reflecteor antenna
+smart antenna
+
+dipole and monopole
+multielement array
+multiband MF and HF antennas, HF Yagi and Quad Antennas, Broadside and End-Fire Arrays, Long-Wire and Traveling-Wave Antennas
+VHF, UHF, and Microwave Antennas, Antennas for Space Communications, Repeater Antenna Systems
+Stealth and Limited Space Antennas, Mobile and Maritime HF Antennas, Receiving and Direction-Finding Antennas
+Transmission Lines, 
+
+RF circuits
+- RF circuit design
+- RF transistors principles and design
+
+resonant circuits, filters, impedence matching, transistors at RF, 
+
+Power Splitting and Combining, Frequency Compensation and Negative Feedback 
+LDMOS RF Power Transistors
+
+Filters
+- Handbook of filter synthesis
+- Microwave filters for communication systems
+
+theory of effective parameters, elliptic functions and elements of realization
+normalized low pass filters, polynomial filters, CRYSTAL FILTERS, HELICAL FILTERS
+time, frequency domain
+
+Circuit Theory Approximation, f Lossless Lowpass Prototype Filter Functions, e Chebyshev Filter Functions
+Synthesis of Networks: circuit approach, Direct Coupling Matrix Synthesis Methods
+Reconfiguration of the Folded Coupling Matrix 2
+Extracted Pole and Trisection Elements
+Microwave Resonators
+Waveguide and Coaxial Lowpass Filters, Single- and Dual-Mode Resonator Filters, Coupled Resonator Filters, Dielectric Resonator Filters 
+Allpass Phase and Group Delay Equalizer Networks
+Multiplexer, Multiband Filters,  Tunable Filters
+
+Radars
+- Principles of modern radar
+- Radar system engineering
+
+radar range equation, Radar Search
+External Factors, propagation effects, Clutter, target relativity, target fluctuation, Doppler Phenomenology and Data Acquisition
+Subsystems, antennas, transmitters, receivers, exciters, radar Signal processors, 
+Signal and Data Processing, Threshold Detection of Radar Targets, Constant False Alarm Rate Detectors, Doppler Processing, Radar Tracking Algorithms, 
+Radar Measurements, Pulse Compression Waveforms, radar imaging
+
+LIMITATIONS OF PULSE RADAR, C-W RADAR SYSTEMS, RADAR BEACOns, THE MAGNETRON AND THE PULSER, RADAR RELAYS, MOVING-TARGET INDICATION, 
+
+Wireless
+- Complete wireless design
+
+modulation, amplifier, wireless testing, EMI control
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mechanical engineering
+- MEchanical engineering principles
+- System dynamics
+
+ME Design
+- Shigley's
+
+Fluid dynamics
+- introduction to fluid dynamics
+- fluid mechanics
+
+Continuum mechanics
+- Continuum mechanics
+
+Machinery & Mechanisms
+- Design of Machinery
+- Machinery's handbook
+- illustrated sourcebook of mechanical components
+- MEchanisms and mechanical devices sourcebook
+
+Mechantronics
+- Fundamentals of mechatronics
+
+Theory of Vibrations
+- Theory of Vibrations with applications
+
+oscillatory motion
+harmonically excited vibration
+transcient vibration
+finite element method
+random, nonlinear vibrations
+
+
+Mechanical Engineering
+statics and strength of materials
+stress
+tensile test
+deformation
+
+Dynamics
+linear motion and momentum
+Linear momentum and impulse
+force mass and acceleration
+work, energy, and power
+friction
+motion in a circle
+Simple harmonic motion
+simple machines
+
+fluid mechanics & heat transfer
+flow, potential flow
+mass and energy transfer
+Thermal expansion
+
+Mechanical Engineering Design
+basics
+materials
+load and stress analysis
+deflection and stiffness
+
+Failure prevention
+Failures Resulting from Static Loading
+Fatigue Failure Resulting from Variable Loading
+
+Design of Mechanical Elements
+Shaft and its components
+Temporary Joints
+Permanent Joints
+Springs
+Different bearings
+Different types of gears
+Clutches, Brakes, Couplings, and Flywheels 
+Flexible elements
+Power transmission
+
+
+Machinery
+Position analysis
+velocity analysis
+
+Mechatronics
+analog, digital circuit
+microcontrollers
+control software
+sensors
+actuators
+feedback control
+
+System Dynamics
+mechanical system
+electric and electromechanic system
+fluid and thermal system
+laplace transform
+Modellings of system dynamics
+Analysis of dynamic system
+Analysis of control system
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Civil Engineering
+- CE reference manual for PE
+- Architecture: form, space, and order
+
+geotechnical engineering
+- Principles of geotechnical engineering
+
+origin of soil size
+Weight–Volume Relationships
+plasticity and soil structure
+soil classification
+subsoil exploration
+soil compaction
+soil compressibility
+permeability
+seepability
+stress in a soil mass
+Shear Strength of Soil
+Soil Bearing Capacity for Shallow Foundations 
+lateral pressure of earth
+Slope Stability
+
+environment engineering
+- INtroduction to environment engineering
+- Environmental Physics - Sustainable Energy and Climate Change
+- An Introduction To Environmental Biophysics
+- Environmental chemistry
+- Environmental geology
+- Introduction to Environmental Geology
+
+Heat Engines
+Heat and Mass Transport
+Radiation Fluxes
+
+Plant Canopies
+
+ozone holes
+biofuels
+radon
+toxic heavy metals
+toxic organic compounds, pesticides, dioxins, furans
+detailed free radical chemistry
+
+Slope Processes, Landslides, and Subsidence
+
+Natural Resource Management
+- Natural resource conservation
+
+mass and energy transfer
+chemistry of environment
+mathematics of growth
+risk assessment
+water pollution
+water quality control
+air pollution
+Global Atmospheric Change
+Solid Waste Management and Resource Recovery
+
+ecology, human population, world hunger, soil conservation, pest management, Acid Deposition and Stratospheric Ozone Depletion
+
+Urban engineering
+- Local planning: contemporary principles and practice
+
+construction
+- fundamentals of building construction
+- Construction project management
+- Principles of foundation engineering
+
+foundation
+different types of foundations
+different walls
+subsoil exploration
+soil modification
+Vertical Stress Increase in Soil
+foundation on a bad soil
+Lateral Earth Pressure
+Load and Resistance Factor Design
+
+building construction
+foundation
+concrete, brick, stone masonry
+wood, timber structure
+steel, light gauge steel structure
+concrete structure
+exterior, interior finishes
+windows and doors
+glass and glazing
+partition walls
+enclosure 
+cladding
+roof, floor finish
+
+materials
+- MAterials for civil and construction engineers
+
+wood
+steel
+aliminum
+mixture, composite
+brick
+concrete, portland cement
+stone
+asphalt
+
+steel design
+- Steel design
+- Steel construction manual
+
+tension members
+Compression Members
+beams, colums
+Simple Connections
+eccentric connection
+composite construction
+plate girders
+
+Flexural Members
+Members Subject to Combined Forces
+Simple Shear Connections
+Partially Restrained Moment Connections
+Bracing Connections and Truss Connections
+Beam Bearing Plates, Col. Base Plates, Anchor Rods, and Col. Splices
+Hanger Connections, Bracket Plates, and Crane-Rail Connections
+
+Concrete
+- Design of reinforced concrete
+
+flexural analysis
+rectangular beams and one way slabs
+T-beams doubly reinforced beams
+splices
+shear and diagonal tension
+footings
+torsion
+2 way slabs, direct design and equivalent frame methods
+prestressed concrete
+
+Structure
+- Structural analysis
+
+Analysis of Statically Determinate Structures
+Analysis of Statically Determinate Trusses 
+Internal Loadings Developed in Structural Members
+Cables and Arches
+Deflections Using Energy Methods
+Analysis of Statically Indeterminate Structures by the Force Method
+Displacement Method of Analysis: Slope-Deflection Equations, Moment Distribution
+Truss Analysis Using the Stiffness Method
+Beam Analysis Using the Stiffness Method
+Plane Frame Analysis Using the Stiffness Method
+
+traffic engineering
+- Traffic engineering
+
+Trafic Stream Characteristics
+Weaving, Merging, and Diverging Movements on Freeways and Multilane Highways
+Intersection Signalization
+Fundamentals of Signal Timing: Actuated Signals
+Critical Movement Analysis of Signalized Intersecions
+Signal Coordination for Arterials and Networks: Undersaturated Conditions
+Analysis of Streets in a Multimodal Context
+Trafic Impact Analysis
+
+Hydrology & wastewater management
+- Introduction to hydrology
+- Wastewater engineering
+
+THE HYDROLOGIC CYCLE
+Interception and Depression Storag
+Infiltration
+Streamflow
+Runoff and the Catchment
+Hydrographs
+Hydrograph Routing
+Urban and Small Watershed Hydrology
+Hydrologic Design
+Wells and Collection Device
+Synthetic Streamflows
+Urban Runotf Simulation Models
+
+process analysis
+wastewater flowrates and constituent loadings
+suspended growth biological treatment
+attached growth and combined biological treatment processes
+anaerobic suspended and attached growth biological treatment processes
+separation processes for removal of residual constituents
+processing and treatment of sludges
+biosolids processing
+plant recycle flow treatment and nutrient recovery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aerospace engineering
+- Fundamentals of aerodynamics
+- Fundamentals of astrodynamics
+
+inviscid, incompressible flow
+inviscid, compresisble flows through nozzles and diffusers, oblique shock and expansion waves, normal shock waves
+subsonic compresisble flow, linearized supersonic flow, hypersonic flow
+viscous flow, couette flow, laminar boundary layers, Navier stokes solution
+
+Initial orbit determination
+
+Aeroelasticity
+- Aeroelasticity
+
+ApPROXIMATE METHODS OF COMPUTING NATURAL MODE  SHAPES AND FREQUENCIES 
+AERODYNAMIC TOOLS: TWO- AND THREE-DIMENSIONAL IN COMPRESSIBLE FLOW 
+WINGS AND BODIES IN THHEE-DIMENSIONAL UNSTEADY FLOW 
+STATIC AEROELASTIC PHENOMENA 
+FLUTTER 
+DYNAMIC RESPONSE PHENOMENA
+AEROELASTIC MODEL THEORY 
+
+Aircraft design
+- Aircraft design: a conceptual approach
+- Aircraft structures
+- Analysis and design of flight vehicle structures
+
+Airfoil and Wing/ Tail Geometry Selection
+Thrust-to-Weight Ratio and Wing Loading
+Configuration Layout and Loft
+
+SPAce STRUCtuRES
+Moments of inertia, MOHR's circle
+members of semimonoque structures
+spanwise airload distribution
+webs in shear
+
+Control theory
+- Modern control systems
+- Aircraft control and simulation
+
+state variable models
+root locus method
+robust control systems
+
+
+Flight dynamics
+- introduction to flight
+- flight dynamics
+
+Lateral-Directional Motions
+Coupled Longitudinal and Lateral-Directional Motions
+
+Spacecraft Engineering
+- Space Vehicle Design
+- Manned Spacecraft Design Principles
+
+Attitude Determination and Control
+Configuration and Structural Design
+Reliability Analysis
+
+Communication
+- Satellite Communications Systems_ Systems, Techniques and Technology
+- Deep Space Telecommunications Systems Engineering
+
+baseband digital signals, packet network, and QoS
+Uplink, downlink, and overral link performance, intersatellite links
+multiple access
+communication payload
+
+Spectral Characteristics of Digital Modulations
+Radio Tracking System
+Telemetry System
+Spacecraft Radio Frequency Subsystem 
+Space Shuttle and TDRSS Telecommunications System Interfaces
+
+Systems
+- Spacecraft Systems Engineering
+
+GROUND SEGMENT
+
+
+Rockets
+- Modern Engineering for Design of Liquid-Propellant Rocket Engines
+- Handbook of Model Rocketry
+
+Thrust Chambers
+Gas-Pressurized Propellant Feed Systems .
+Turbopump Propellant Feed Systems
+Rocket-Engine Control and Condition-Monitoring Systems
+Propellant Tanks
+
+Glide Recovery
+
+
+Propulsion
+- Rocket propulsion elements
+
+Nozzle theory and thermodynamic relations
+solid propellant
+thrust vector control
+rocket exhaust plumes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fusion Engineering
+- Fusion physics
+- Plasma physics and fusion energy
+
+PHYSICS OF CONFINEMENT
+EQUILIBRIUM AND MACROSCOPIC STABILITY OF TOKAMAKS
+PLASMA DIAGNOSTICS
+PLASMA HEATING AND CURRENT DRIVE BY NEUTRAL BEAM AND αLPHA PARTICLES
+PLASMA–WALL INTERACTIONS
+HELICAL CONFINEMENT CONCEPTS
+THE BROADER SPECTRUM OF MAGNETIC CONFIGURATIONS FOR FUSION
+INERTIAL FUSION ENERGY
+
+The fusion reaction
+Power balance in a fusion reactor
+Single-particle motion in a plasma – guiding center theory
+Single-particle motion – Coulomb collisions
+A self-consistent two-fluid model
+MHD – macroscopic equilibrium
+Heating and current drive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marine engineering
+- Applied Naval Architecture
+- Ship construction
+- Water wave mechanics for engineers and scientists
+- Concepts In Submarine Design 
+
+hull form
+stability at large angles
+trim and longitudinal stability
+
+Plate and Section Preparation and Machining
+Shell Plating and Framing
+Bulkheads and Pillars
+Decks, Hatches, and Superstructures
+Pumping and Piping Arrangements
+Corrosion Control and Anti-fouling Systems 
+
+SMALL-AMPLITUDE WATER WAVE THEORY FORMULATION AND SOLUTION
+LONG WAVES
+WAVEMAKER THEORY
+WAVES OVER REAL SEABEDS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Particle Accelerator
+- Handbook of Accelerator Physics and Engineering 
+- Tokamaks
+
+BEAM DYNAMICS
+
+Mhd stability 
+Microinstabilities 
+Plasma-surface interactions 
+Large Tokamaks 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chemistry
+- Zumdahl's Chemistry
+- Chemistry_ The Central Science
+- Chemistry of the elements
+- Chemical applications of group theory
+- History of Chemistry
+
+ions, and molecules
+atomic bonding, covalent bonding
+solution, Acid and bases
+chemical equilibrium
+Chemical reaction
+Gases, liquids and solids
+Chemical Kinetics
+Electrochemistry
+periodic table and representitive elements
+Transition Metals and Coordination Chemistry
+Organic and Biological Molecules
+
+Inorganic chemistry
+- Inorganic chemistry
+- Advanced Inorganic Chemistry
+- The Organometallic Chemistry of the Transition Metals
+
+ions
+molecullar symmetry
+Structures and energetics of metallic and ionic solids 
+Acids, bases and ions in aqueous solution
+Reduction and oxidation
+non aqueous media
+hydrogen
+group 13 - 18 elements
+Group 1 alkali metals and group 2 metals
+D-block metal chemistry
+ Organometallic compounds of d-, s-, and p-block elements
+Catalysis and some industrial processes
+d-Block metal complexes: reaction mechanisms
+f block metal
+nanotechnology
+trace metals of life
+
+Organic chemistry
+- Organic chemistry
+- Advanced Organic Chemistry 
+- March's Advanced Organic Chemistry_ Reactions, Mechanisms, and Structure
+- Molecular Orbitals and Organic Chemical Reactions
+- The Art of Writing Reasonable Organic Reaction Mechanisms
+
+Biochemistry
+- Lehninger's principles of biochemistry
+- Fundamentals of Biochemistry_ Life at the Molecular Level
+- Biochemistry
+
+structure and catalysis
+metabolism and bioenergetics
+information pathways
+
+Physical chemistry
+- Atkin's physical chemistry
+- Physical Chemistry_ A Molecular Approach
+
+gases
+laws of thermodynamics
+physical transformation of a pure substance
+simple mixtures
+chemical equilibrium
+quantum theory
+atomic structure and spectra
+mollecular structure
+mollecular symmetry
+Magnetic resonance
+Statistical thermodynamics
+interactions of atoms
+solids
+molecules in motion
+chemical kinematics
+Reaction dynamics
+Processes at solid surfaces
+
+Geochemistry
+- Geochemistry
+- Chemical Fundamentals of Geology and Environmental Geoscience
+- Biogeochemistry_ An Analysis of Global Change
+
+Spectroscopy
+- Molecular Symmetry and Spectroscopy
+
+Chemical engineering
+- Elementary Principles of chemical processes
+- Unit operations of chemical engineering
+- Perry's chemical engineering book
+
+processes and process variables
+material balance, single phase system
+energy balance, reactive, non-reactive, and transcient process
+fluid dynamics, fluid flow, Agitation and Mixing of Liquids
+heat transfer, radiation heat transfer, conduction, phase change, and evaporation
+mass transfer, distillation, leaching and extraction,  Principles of Diffusion, gas absorption, Humidification Operations, drying of solids, 
+Membrane Separation Processes, and crystallization
+particulate solids, size reduction, and mechanical separation
+
+Chemical reaction 
+- Elements of chemical reaction engineering
+
+moles
+rate laws
+isothermal reactions
+bioreactors
+catalyst reactors
+DIFFUSION AND REACTION
+non-ideal reactor
+
+Chemical analysis
+- Quantitive Chemical analysis
+- Principles of Instrumental Analysis
+
+concentration
+equilibrium
+Acid-Base Titrations
+
+solar engineering
+- Applied photovoltaics
+- Solar Energy_ The Physics and Engineering of Photovoltaic Conversion
+- Solar photovoltaic basics a study guide for the NABCEP Associate Exam
+- The Physics of Solar Cells_ Photons In, Electrons Out
+
+sunlight
+semi-conductor, and p-n junction
+behavior of solar cells
+cell properties and design
+pv cell interconnection and module fabrication
+stand alone photovoltaic system
+specific purpose photvoltaic applications
+remote area power supply
+grid connected photovoltaic system
+PHOTOVOLTAIC WATER PUMPING SYSTEM COMPONENTS
+
+Nuclear Engineering
+- Introduction to nuclear engineering
+- Spin dynamics_ basics of nuclear magnetic resonance
+
+INTERACTION OF RADIATION WITH MATTER
+nuclear reactor
+NUCLEAR REACTOR THEORY
+NEUTRON DIFFUSION AND MODERATION
+HEAT REMOVAL FROM NUCLEAR REACTORS
+RADIATION PROTECTION 
+RADIATION SHIELDING
+
+Chemical engineering thermodynamics
+- Introduction to CE thermodynamics
+
+battery engineering
+- Modern battery engineering
+- Linden's handbook of batteries
+- Advanced batteries: material science aspects
+
+f Achievable Energy Densities in Electrochemical Cells
+Lithium-ion Cells: Discussion of Different Cell Housings, Parallel Connection of Lithium-ion Cells, Volume Strain
+Reconfigurable Batteries: Efficiency Enhancement and Lifetime Extension 
+Thermal Propagation
+Battery Recycling
+Power-to-X Conversion
+
+Math modelling of batteries, battery electrolytes
+primary battery, zinc carbon battery (leclanche and zinc chloride), magnesium and aluminium battery, alkaline-manganese dioxide, mercuric oxide, button cell, lithium primary batteries
+secondary battery, valve regulated lead-acid, iron electrode, vented sintered plate and portable sealed nickel cadmium, nickel metal hybride, nickel zinc, nickel hydrogen, silver oxide, li-ion, rechargeble lithium metal batteries
+specialized battery system, electrical energy storage, biomedical, electric vehicle, metal/air battery, reserve magnesium anode, zinc oxide, reserve military, thermal batteries
+fuel cells and electrochemical capacitors, 
+
+binary, ternary electrodes under equilibrium, electrode reactions deviating from equilibrium
+insertion reaction electrode, negative electrode
+convertible reactant electrodes, positive electrode, solid positive, liquid positive, hydrogen and water in positive electrode
+Negative Electrodes, The Zinc Electrode, Manganese Dioxide Electrodes in aqueous systems
+The “Cadmium” Electrode, The “Nickel” Electrode
+Liquid Electrolytes, Solid Electrolytes, Reference Electrodes
+Electrolyte Stability Windows and Their Extension, The SEI in Organic Solvent
+Polymeric Materials As Battery Components .
+Transient Behavior
+
+
+Electrochemistry
+- electrochemistry for chemists
+- electrochemical methods
+
+potentiometry, controlled potential and current methods, electrochemical titrations
+indicator electrodes, electrochemical cells, solvents and electrolytes
+hydronium ions, bronsted acids, and molecular hydrogen 
+dioxygen species, ozone, and atomic oxygen
+metals and metal complexes, nonmetals (sulfur, nitrogen, carbon compounds), organic compounds, organometallic compounds and metalloporphyrins
+
+MASS TRANSFER BY MIGRATION AND DIFFUSION
+POTENTIAL STEP METHODS, POTENTIAL SWEEP METHODS
+POLAROGRAPHY AND PULSE VOLTAMMETRY, G FORCED CONVECTION—HYDRODYNAMIC METHODS
+BULK ELECTROLYSIS METHODS
+DOUBLE-LAYER STRUCTURE AND ADSORPTION, ELECTROACTIVE LAYERS AND MODIFIED ELECTRODES
+SCANNING PROBE TECHNIQUES, SPECTROELECTROCHEMISTRY, PHOTOELECTROCHEMISTRY AND ELECTROGENERATED CHEMILUMINESCENCE
+
+Medical chemistry
+- introduction to medicinal chemistry
+
+Agriculture
+- elements_of_agricultural_chemistry
+- Agricultural Biotechnology (Books in Soils, Plants, and the Environment)
+- Introduction to Agricultural Engineering Technology
+
+Agronomy
+- Introduction to Agronomy  Food, Crops, and Environment
+
+Soil
+- The Nature and Properties of Soils
+
+Plants
+- Plant Systematics
+- American Horticultural Society Plant Propagation
+- All New Square Foot Gardening
+
+Food Science 
+- essentials of food science
+
+Food chemistry
+- Fennema's food chemistry
+
+Food engineering
+- introduciton to food engineering
+
+Food Biology
+- food microbiology
+
+food quality evaluation, water
+carbohydrates in foods, starches in food, pectins and gums, grains, vegetable and fruits
+proteins in foods, meat, poultry, fish, dry beans and nuts, egg products, milk products, 
+fats in food, fat and oil products, food emulsions and foams
+sugars, sweeteners, confections
+baked products, batters and dough
+food handling, preservation, food additives, packaging, safety
+government regulation of the food supply and labeling
+
+major food components, water and ice, carbohydrates, lipids, amino acids, peptides, proteins, enzymes, and dispersed systems
+minor components, vitamins, minerals, colorants, flavor, food additives, bioactive foods: nutraceuticals and toxicants
+food system, milk, edible muscle tissue, edible plant tissues
+
+fluid flow in food processing, heat transfer in food processing, food freezing, psychrometrics, membrane separation, extrusion processes for food
+
+microbial growth, survival, detection, and death in foods, rapid and automated microbial methods
+indicator microorganisms, microbiological criteria
+spores, Bacillus cereus, Campylobacter Species
+Clostridium botulinum, Clostridium perfringens, Enterohemorrhagic Escherichia coli, Listeria monocytogenes
+Salmonella Species,Shigella Species
+Staphylococcus aureus, Vibrio Species, Yersinia enterocolitica
+Lactic Acid Bacteria and Their Fermentation Products, Yeast-Based and Other Fermentations
+Spoilage Organisms
+Molds, Parasites, Viruses and Prions
+Chemical Antimicrobials, Biologically Based Preservation and Probiotic Bacteria
+Nonthermal Processing
+
+Energy engineering
+- energy systems engineering
+- fundamentals and applications of renewable energy
+- renewable and alternative energy resources
+- Fundamentals of non renewable resources
+
+climate change, fossil fuel, stationary combustion system, carbon sequestration, nuclear energy, solar resource, Active Solar Thermal Applications, 
+Wind Energy Systems, Bioenergy Resources and Systems, Transportation Energy Technologies
+
+hydropower, geothermal energy, ocean energy, biomass energy, hydrogen and fuel cells
+
+THERMODYNAMIC CYCLES, HEAT TRANSFER, coal, natural gas, petroleum, nuclear, HUBBERT PEAK THEORY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+biology
+- Campbell biology
+- History of biology: a survey
+
+zoology
+- Integrated Principles of Zoology
+
+BOtany
+- Plant Physiology
+- Raven biology of plants
+- Plant Pathology
+- All New Square Foot Gardening
+
+Ecology
+- a primer of ecology
+- Ecology_ From Individuals to Ecosystems
+- An Introduction to Systems Biology_ Design Principles of Biological Circuits
+
+evolution 
+- princeton guide to evolution
+- The Structure of Evolutionary Theory
+- Evolutionary Analysis
+
+microbiology
+- Brock Biology of Microorganisms
+- Molecular Biology of the Cell
+
+Virology
+- Principles of Virology. 1 and 2
+- Molecular and Cellular Biology of Viruses
+
+Genetics 
+- Concept of genetics
+- Human Molecular Genetics
+- Introduction to Genetic Analysis
+- Population Genetics_ A Concise Guide
+- Thompson & Thompson Genetics in Medicine
+
+Human Biology
+Anatomy
+-Gray's Anatomy_ The Anatomical Basis of Clinical Practice
+
+Immune
+-Janeway’s Immunobiology
+
+Nutrition
+-Modern Nutrition in Health and Disease
+
+Medical Science
+-Medical Sciences
+
+Pathology
+-Robbins Basic Pathology
+-Robbins & Cotran Pathologic Basis of Disease
+-Pathophysiology_ The Biologic Basis for Disease in Adults and Children
+
+Pharmacology
+-Basic & Clinical Pharmacology
+Therapeutics
+Goodman and Gilman’s The Pharmacological Basis of Therapeutics
+
+Physiology
+-Guyton and Hall Textbook of Medical Physiology
+-PRINCIPLES OF ANATOMY AND PHYSIOLOGY
+
+Physical biology
+- An Introduction to Biomechanics_ Solids and Fluids, Analysis and Design
+- Bioelectromagnetism_ Principles and Applications of Bioelectric and Biomagnetic Field
+
+Bioinformatics
+- Biostar handbook
+- Understanding bioinformatics
+- Bioinformatics with python cookbook
+- Genome scale algorith design
+
+bioengineering
+- bioprocess engineering principles
+- principles of tissue engineering
+
+Biotechnology
+- Introduction to Biotechnology
+- Molecular Biotechnology Principles and Applications of Recombinant DNA
+
+Genetic Engineering
+- An introduction to genetic engineering
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+material science
+- Material science and engineering
+- Structure of materials: an introduction to crystallography, diffraction, and symmetry
+- Elements of X-Ray Diffraction
+
+structure of crystalline solids
+impurities in solids
+mechanical properties of metals
+diffusion
+failure
+dislocations
+phase transformation
+
+Physics of material science
+- introduction to thermodynamics of materials
+- kinetics of materials
+- mechanics of materials
+- solid state physics
+
+Biomaterials
+- Biomaterials: intersection of biology and material science
+
+Electronics of materials
+- Principles of electronic materials & devices
+- Electronic Properties of Materials
+
+Polymers
+- Introduction to Polymers
+- polymer chemistry
+
+Crystallography
+- Introduction to Crystallography
+
+Phase transformation
+- Phase Transformations in Metals and Alloys
+
+Casting
+- Complete casting handbook
+
+Additive manufacturing and 3d printing
+- Additive manufacturing technologies
+- 3D printing handbook: technologies, design, and applications
+- Multimaterial 3d printing technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics
+  
+
+
+
+Combinatorics
+- Enumerative combinatorics
+
+Sieve Methods
+Partially Ordered Sets 
+Rational Generating Functions 
+Trees and the Composition of Generating Functions
+Algebraic, D-Finite, and Noncommutative Generating Functions
+Symmetric Functions
+Knuth Equivalence, Jeu de Taquin, and the Littlewood-Richardson Rule
+The Characters of GL(n, C)
+
+graph theory
+- introduction to graph theory
+
+Discrete math
+- discrete mathematics and its applications
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer science
+
+Algorithm & Data structure
+- CLRS
+- Art of programming
+
+Analysis
+- An introduction to Analysis of algorithms
+
+recurrence relation
+generating functions
+asymptotic approximation
+analytic combinatorics
+trees
+permutations
+strings and tries
+words and mapping
+
+Linear programming
+- Theory of linear and integer programming
+- INtroduction to linear optimization
+
+LATTICES AND LINEAR DIOPHANTINE EQUATIONS 
+Diophantine approximation and basis reduction 
+Polarity, and blocking and anti-blocking polyhedra 
+Sizes and the theoretical complexity of linear inequalities and linear programming 
+The simplex method 
+Primal-dual, elimination, and relaxation methods 
+Khachiyan's method for linear programming 
+The ellipsoid method for polyhedra more generally 
+Estimates in integer linear programming 
+Totally unimodular matrices: fundamental properties and examples 
+Integral polyhedra and total dual integrality 
+
+Duality theory
+sensitivity analysis
+large scale analysis
+network flow problems
+interior point method
+
+
+Nonlinear programming
+- NOnlinear programming
+
+Unconstrained Optimization 
+Optimization Over a Convex Set 
+Lagrange Multiplier Theory 
+Dual Methods 
+
+
+Convex optimization
+- Convex optimization
+- Convex optimization algorithms
+
+Convex functions 
+Approximation and fitting 
+Equality constrained minimization 
+
+Subgradient Methods 
+Proximal Algorithms 
+
+
+Combinatorial optimization
+- COmbinatorial optimization
+
+PRIMAL-DUAL ALGORITHMS FOR MAX-FLOW AND SHORTEST PATH: FORD-FULKERSON AND DIJKSTRA 
+WEIGHTED MATCHING 
+SPANNING TREES AND MATROIDS 
+A CUTTING-PLANE ALGORITHM FOR INTEGER LINEAR programs
+NP-COMPLETE PROBLEMS 
+BRANCH-AND-BOUND AND DYNAMIC PROGRAMMING 
+LOCAL SEARCH 
+
+Dynamic programming
+- Dynamic programming and optimal control
+
+deterministic system and shortest path problems
+deterministic continuous time optimal control
+suboptimal control
+infinite horizon - discounted problems
+
+
+Networking
+- Computer Networking: a top down approach
+- Unix network programming
+- Network warrior
+- Ethernet: definitive guide
+- Beej's guide to network programming
+- Interconnections
+- Hands on network programming with C
+- High performance browser networking
+- Software dynamics
+
+IO multiplexing
+socket options
+daemon processes and inetd superserver
+unix domain protocols
+nonblocking IO
+ioctl operations
+routing sockets
+broadcasting, multicasting
+out of band data
+signal driven IO
+threads
+IP options
+raw sockets
+data link acces
+streams
+Posix IPC
+system V IPC
+Message Passing Pipes and queues
+Mutexes and Condition Variables 
+Read-Write Locks 
+Record Locking 
+Posix Semaphores 
+Posix Shared Memory 
+Remote Procedure Calls 
+Doors 
+Sun RPC 
+
+hubs and switches
+autonegotiation
+VLAN
+trunking
+link aggregation
+spanning tree
+GRE tunnels
+first hop redundancy
+route maps
+multilayer switching
+cisco nexus
+catalyst 3750
+telecom nomenclature
+T1, DS3, frame relay
+Access lists
+ASA firewall
+VoIP
+QoS
+Congested, converged network
+Network time protocol
+GAD's maxim
+
+ethernet system
+ethernet frame and full duplex mode
+ethernet media signalling
+structure cabling
+
+Socket API
+hostname resolution
+openSSL and libssh
+
+TLS
+XMLhttprequest
+SSE
+websocket
+webtRTC
+
+kernel user trace, linux loadable module, usermode runtime control
+
+Routing
+- Routing TCP/IP
+
+Inter-Domain Routing
+BGP and NLRI
+Multiprotocol BGP
+IP Multicast Routing
+Protocol Independent Multicast
+IPv6 to IPv4 Network Address Translation (NAT64)
+
+DNS and BInd
+- DNS and Bind
+- Pro DNS and Bind
+- Alternative DNS
+
+nslookup, dig
+resolver, nameserver library routines
+
+Zone files and resource records
+DNSSEC
+
+4 MaraDNS 75
+5 MyDNS 95
+6 PowerDNS Authoritative Server
+9 Bind DLZ 213
+10 Name Server Daemon (NSD) 261
+11 tinydns 283
+12 ldapdns 315
+13 dnsmasq
+
+
+Distributed systems
+- Distributed systems
+- Distributed services with GO
+- Programming Erlang
+
+protocol buffer
+log package
+gRPC
+kubernete
+
+BGP
+- BGP
+
+IP Address Space and AS Numbers
+Providing Transit Services
+
+
+MPLS
+- MPLS fundamentals
+
+Label Distribution Protocol 
+MPLS and ATM Architecture
+Cisco Express Forwarding
+MPLS VPN
+Virtual Private LAN Service
+
+
+Computer architecture
+- Digital design and computer architecture
+- Computer architecture: A quantitative approach
+- Computer Structures_ Readings and Examples
+
+PMS and ISP descriptive systems
+1 level storage system
+general register state
+stack memory
+time sharing system
+
+
+Computer Design
+- computer systems: a programmer's perspective
+- elements of computing systems: building a computer from first principles
+- Computer organization and design
+- Combined Volume Set of Intel Software Developer’s Manuals
+
+program structure and execution, optimizing program performance, memory hierarchy
+running programs on a system, linking, exceptional control flow, virtual memory
+interaction and communication between programms, system level I/O, network programming, concurrent programming
+
+procedure calls, interrupts
+
+Computer sceen
+- LCD: fundamental physics and technologies
+- OLED display fundamentals and applications
+
+Double Refraction
+Electromagnetism, The Polarization of an Electromagnetic Wave
+Light in Matter
+Liquid Crystals, its thermodynamics, Liquid Crystal Display Chemistry
+The Calculus of Variations, mean field, Maier–Saupe Theory, Phenomenological Theory, Static and Dynamic Continuum Theory, 
+The Twisted Nematic, The Active Matrix, A Transistor for the Active Matrix 
+Enhancing the Image, The Wider View
+
+OLED devices, Manufacturing Process, display module,  Color Patterning, TFT and Driving for Active-Matrix Display, OLED Lighting
+
+
+
+OS
+- Modern operating systems
+- Unix programming environment
+
+file system
+shell
+filters
+standard IO
+System calls
+program development 
+DOcument preparation
+
+Linux
+- Linux kernel development
+- Linux device drivers
+- Linux from scratch
+- BPF performance tools
+
+kernel
+process management, schedulling, The Process Address Space
+system calls
+kernel data structures, Kernel Synchronization
+interrupts and handlers
+Bottom Halves and Deferring Work 
+Timers and Time Management, Memory Management
+Virtual file system
+The Block I/O Layer
+The Page Cache and Page Writeback
+Devices and Modules
+Debugging 
+Portability 
+Patches, Hacking, and the Community
+
+building and running modules
+char drivers, advanced operations
+concurrency and race condition
+time, delays, and deferred work
+allocating memory
+communicating with hardware
+interrupt handling
+data types in kernel
+PCI drivers
+USB drivers
+Linux device model
+Memorry mapping and DMA
+Block drivers
+NEtwork drivers
+TTY drivers
+
+Windows
+- Windows internals
+- Windows kernel programming
+- Windows 10 system programming
+- Programming Windows: writing windows 8 app with C# and XAML
+- Windows via C/C++
+
+windows architecture
+processes and jobs
+threads
+memory management
+IO system
+Security
+system mechanisms
+virtualization
+management, diagnostics and tracing
+caching and file systems
+startup and shutdown
+Kernel mechanisms
+IO request packet
+process and thread notifications
+Object and registry notifications
+File system mini filters
+
+Thread synchronization (intra, inter process)
+thread pools
+File and device IO
+Dynamic link libraries
+Registry
+
+Markup and code
+XAML syntax
+Event handling
+Presentation with panesl
+control interaction
+WinRT and MVVM
+Asynchronicity
+App bars and popup
+3 templates
+pages and navigation
+Touch
+BItmap
+going native
+rich text
+sensors and gps
+Pen (stylus)
+
+Error handling, KErnel objects
+synchronous, asynchronous device IO, fibers
+memory management, virtual memory, thread's stack, MMF, heaps
+DLLs, thread-local storage, DLL injection and API hooking
+Structured exception handling, Termination handling, vectored exception handling
+Build environment
+
+
+
+Database
+- Database system concepts
+- MySQL
+- High performance mySQl: proven strategies for operating at scale
+- Microsoft sql server 2012 internals
+
+managing data, data types, query optimization
+mySQL administration, mySQL data directory, access control and security, Database Maintenance, Backups, and Replication
+
+performance schema
+OS and hardware optimization
+optimizing server settings
+Schema design
+indexing for high performance
+replication
+Backup and recovery
+
+SQLOS
+logging and recovery
+table storage
+plan caching, recompilation
+DBCC internals
+
+
+
+Compiler
+- Compilers: principles, techniques, and tools
+- On pascal compilers
+- ADvanced compiler design and implementation
+- Building an optimizing compiler
+- compiling with continuation
+- Warren's abstract machine: 
+
+Informal Compiler Algorithm Notation (ICAN) 
+Symbol-Table Structure 
+Intermediate Representations 
+Run-Time Support 
+Control-Flow Analysis 
+Data-Flow Analysis 
+Dependence Analysis and Dependence Graphs 
+Alias Analysis 
+Loop Optimizations 
+Procedure Optimizations 
+Code Scheduling 
+Control-Flow and Low-Level Optimizations 
+
+STATIC SINGLE ASSIGNMENT
+DOMINATOR-BASED OPTIMIZATION
+GLOBAL OPTIMIZATION
+THE OBJECT MODULE
+
+
+continuation passing style
+beta expansion
+hoisting
+closure conversion
+register spilling
+
+Unification—Pure and Simple
+3 Flat Resolution
+Prolog
+
+PLT
+- Design concepts in programming languages
+
+3 Operational Semantics 45
+4 Denotational Semantics 113
+5 Fixed Points
+Dynamic Semantics
+Static Semantics 615
+11 Simple Types 617
+12 Polymorphism and Higher-order Types 701
+13 Type Reconstruction 769
+14 Abstract Types 839
+15 Modules 889
+Pragmatics 1003
+17 Compilation 1005
+18 Garbage Collection
+
+
+Virtual machines
+- Virual machines: versatile platforms for systems
+
+Emulation: Interpretation and Binary Translation
+Process Virtual Machines
+Dynamic Binary Optimization
+Codesigned Virtual Machines
+
+
+ILP
+- ILP
+
+trace, percolation, modulo schedulling
+software pipelining by kernel recognition
+
+Parsing
+- Parsing techniques: a practical guide
+
+General Non-Directional Parsing
+General Directional Bottom-Up, top down Parsing
+ Deterministic Top-Down Parsing
+ Non-Canonical Parsers.
+  Substring Parsing
+  Parsing as Intersection
+  Parallel Parsing
+  Non-Chomsky Grammars and Their Parser
+
+
+Linkers and loaders
+- Linkers and loaders
+
+OBJECT FILES 
+SYMBOL MANAGEMENT 
+RELOCATION 
+LOADING AND OVERLAYS 
+DYNAMIC LINKING AND LOADING 
+
+
+Graphics
+- Real time rendering
+- Mathematics for 3d game programming and computer graphics
+- Game programming patterns
+
+rendering pipeline
+GPU
+transforms
+efficient shading
+texturing
+shadows
+light and coloring
+illumination
+image space effect
+volumetric and translucency rendering
+non photorealistic rendering
+pipeline optimization
+acceleration algos
+intersection test method
+
+Ray Tracing 
+Visibility Determination
+Collision Detection 
+Fluid and Cloth Simulation
+
+design patterns, command, flyweight, observer, prototype, singleton, state
+sequencing patterns, double buffer, game loop, update method
+behavioral patterns, bytecode, subclass sandbox, type object
+decoupling patterns, component event queue, service locator 
+optimization patterns, data locality, dirty flag, object pool, spatial partition
+
+Augmented reality
+- Augmented reality: principles and practice
+
+displays
+tracking
+Computer Vision for Augmented Reality
+Calibration and Registration
+Visual Coherence
+situated visualization
+interaction
+Modeling and Annotation
+Authoring
+Navigation
+Collaboration
+Software Architectures
+
+
+Theory of computation
+- Introduction to  the theory of computation
+- COmputational complexity: a modern approach
+
+Automata and Languages, regular languages, Context-Free Languages
+Computability Theory, The Church–Turing Thesis, Decidability, Reducibility
+Complexity Theory, Time and space Complexity, Intractability
+
+BASIC COMPLEXITY CLASSES, The computational model, NP and NP completeness, Diagonalization, The polynomial hierarchy and alternations, Boolean circuits,
+Randomized computation, Interactive proofs, Cryptography,  Quantum computation, PCP theorem and hardness of approximation
+
+LOWER BOUNDS FOR CONCRETE COMPUTATIONAL MODELS, Decision trees,  Communication complexity, Circuit lower bounds: Complexity theory’s Waterloo, Proof complexity, Algebraic computation models, 
+
+ADVANCED TOPICS, Complexity of counting, Average case complexity: Levin’s theory, Hardness amplification and error-correctingcodes, Derandomization,  Pseudorandom constructions: Expanders and extractors, Proofs of PCP theorems and the Fourier transform technique, Why are circuit lower bounds so difficult
+
+
+Information theory
+- Information theory, inference and learning algorithms
+- Elements of information theory
+
+Data Compression, The Source Coding Theorem, Symbol Codes, Stream Codes, Codes for Integers
+
+Noisy-Channel Coding, Dependent Random Variables, Communication over a Noisy Channel, The Noisy-Channel Coding Theorem, Error-Correcting Codes and Real Channels
+
+Further Topics in Information Theory, Hash Codes: Codes for Efficient Information Retrieval, Binary Codes, Very Good Linear Codes, Message Passing, Communication over Constrained Noiseless Channels, Crosswords and Codebreaking, Why have Sex? Information Acquisition and Evolution . . 269
+
+Probabilities and Inference
+An Example Inference Task: Clustering, 
+Exact Inference by Complete Enumeration . . . . . . . . . 293
+22 Maximum Likelihood and Clustering . . . . . . . . . . . . . 300
+23 Useful Probability Distributions . . . . . . . . . . . . . . . 311
+24 Exact Marginalization . . . . . . . . . . . . . . . . . . . . . 319
+25 Exact Marginalization in Trellises . . . . . . . . . . . . . . 324
+26 Exact Marginalization in Graphs . . . . . . . . . . . . . . . 334
+27 Laplace’s Method . . . . . . . . . . . . . . . . . . . . . . . 341
+28 Model Comparison and Occam’s Razor . . . . . . . . . . . 343
+29 Monte Carlo Methods . . . . . . . . . . . . . . . . . . . . . 357
+30 Efficient Monte Carlo Methods . . . . . . . . . . . . . . . . 387
+31 Ising Models . . . . . . . . . . . . . . . . . . . . . . . . . . 400
+32 Exact Monte Carlo Sampling . . . . . . . . . . . . . . . . . 413
+33 Variational Methods . . . . . . . . . . . . . . . . . . . . . . 422
+34 Independent Component Analysis and Latent Variable Modelling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 437
+35 Random Inference Topics . . . . . . . . . . . . . . . . . . . 445
+36 Decision Theory . . . . . . . . . . . . . . . . . . . . . . . . 451
+37 Bayesian Inference and Sampling Theory . . . . . . . . . . 457
+
+Neural networks
+38 Introduction to Neural Networks . . . . . . . . . . . . . . . 468
+39 The Single Neuron as a Classifier . . . . . . . . . . . . . . . 471
+40 Capacity of a Single Neuron . . . . . . . . . . . . . . . . . . 483
+41 Learning as Inference . . . . . . . . . . . . . . . . . . . . . 492
+42 Hopfield Networks . . . . . . . . . . . . . . . . . . . . . . . 505
+43 Boltzmann Machines . . . . . . . . . . . . . . . . . . . . . . 522
+44 Supervised Learning in Multilayer Networks . . . . . . . . . 527
+45 Gaussian Processes . . . . . . . . . . . . . . . . . . . . . . 535
+46 Deconvolution . . . . . . . . . . . . . . . . . . . . . . . . . 549
+
+Sparse Graph Codes
+47 Low-Density Parity-Check Codes . . . . . . . . . . . . . . 557
+48 Convolutional Codes and Turbo Codes . . . . . . . . . . . . 574
+49 Repeat–Accumulate Codes . . . . . . . . . . . . . . . . . . 582
+50 Digital Fountain Codes . . . . . . . . . . . . . . . . . . . . 589
+
+Entropy, Relative Entropy, and Mutual Information
+Asymptotic Equipartition Property
+Entropy Rates of a Stochastic Process
+Gambling and Data Compression
+Channel Capacity
+Differential Entropy
+Gaussian Channel
+Rate Distortion Theory
+Information Theory and Statistics
+Maximum Entropy
+Universal Source Coding
+Kolmogorov Complexit
+Network Information Theory
+Information Theory and Portfolio Theory
+Inequalities in Information Theory
+
+
+
+
+
+
+
+AI
+- Artificial intelligence: a modern approach
+- AI safety and security
+
+
+Computer vision
+- Computer vision: Algorithms and applications
+- Multiple view geometry in computer vision
+
+Feature-based alignment
+Dense motion estimation
+Image stitching
+Stereo correspondence
+
+Projective Geometry and Transformations of 3D 
+Estimation - 2D Projective Transformations
+Camera Geometry and Single View Geometry 
+Camera Models 
+Computation of the Camera Matrix P 
+Two-View Geometry 
+Epipolar Geometry and the Fundamental Matrix 
+3D Reconstruction of Cameras and Structure 
+Computation of the Fundamental Matrix F 
+Structure Computation 
+Scene planes and homographies 
+Affine Epipolar Geometry 
+Three-View Geometry 
+The Trifocal Tensor 
+N-View Geometry 
+TV-Linearities and Multiple View Tensors 
+Auto-Calibration 
+Duality
+Cheirality 
+Degenerate Configurations 
+
+
+
+Practical CV
+- COmputer vision and augmented reality in iOS: OpenCV and ARKit applications
+- Learning openCV 4 computer vision with python 3
+- Practical machine learning for computer vision: end to end machine
+
+Custom object tracking
+augmented reality using arKit and openCV
+
+Depth estimation and segmentation
+searching using image descriptors
+
+Image Vision
+Creating Vision Datasets
+
+CV Deep Learning
+- Deep Learning for Vision Systems
+- Deep Learning for Computer Vision with Python
+
+structuring DL projects and hyperparameters tuning
+transfer learning
+R-CNN, SSD, YOLO
+Generative models and Visual embedding
+GANs
+Deepdream and enural style transfer
+
+data augmentation
+feature extractors
+understanding rank 1 and rank 5 accuracies
+fine tuning networks
+network ensembles
+optimal pathway
+HDF5 and large datasets
+googleNET
+resNET
+
+Image Processing
+- Digital Image Processing-Pearson
+- High Dynamic Range Imaging_ Acquisition, Display, and Image-Based
+- Handbook of medical image processing and analysis
+- Medical Imaging_ Signals and Systems
+
+intensity transformations and spatial filtering
+filtering in the frequency domain
+wavelet 
+watermarking
+morphological image processing
+
+HIGH DYNAM IC RANGE IMAGE ENCODINGS
+HDR IMAGE CAPTURE
+DISPLAY DEVICES AND PRINTING TECHNOLOGIES
+PERCEPTION-BASED TONE REPRODUCTION
+TONE-REPRODUCTION OPERATORS
+INVERSE TONE REPRODUCTION
+V ISIBLE DIFFERENCE PREDICTORS
+
+Fundamental Enhancement Techniques
+Adaptive Image Filtering 
+Enhancement by Multiscale Nonlinear Operators 
+Medical Image Enhancement Using Fourier Descriptors and Hybrid Filters 
+Overview and Fundamentals of Medical Image Segmentation
+Image Segmentation by Fuzzy Clustering: Methods and Issues
+Deformable Models
+Shape Information in Deformable Models
+Gradient Vector Flow Deformable Models
+Fully Automated Hybrid Segmentation of the Brain
+Unsupervised Tissue Classification
+Partial Volume Segmentation and Boundary Distance Estimation with Voxel Histograms
+High Order Statistics for Tissue Segmentation 
+Two-Dimensional Shape and Texture Quantification
+Texture Analysis in 3D for Tissue Characterization 
+Computational Neuroanatomy Using Shape Transformations 
+Tumor Growth Modeling in Oncological Image Analysis
+Arterial Tree Morphometry 
+Image-Based Computational Biomechanics of the Musculoskeletal System 
+Three-Dimensional Bone Angle Quantification
+Database Selection and Feature Extraction for Neural Networks
+Quantitative Image Analysis for Estimation of Breast Cancer Risk 
+Classification of Breast Lesions from Mammograms
+Quantitative Analysis of Cardiac Function 
+Image Processing and Analysis in Tagged Cardiac MRI
+
+radiographic imaging
+projection radiogrpahy
+computational tomography
+nuclear medicine imaging
+planar scintigraphy
+ultrasound imaging
+magnetic resonance imaging
+
+
+NLP
+- Speech and language processing
+- Introduction to information retrieval
+- Natural Language Processing in Action Understanding, analyzing, and generating text with Python 
+- Natural Language Processing with Python
+- Practical NLP: a comprehensive guide to building real world NLP systems
+- Prolog and natural-language analysis
+
+N-gram Language Models
+Text Normalization, Edit Distance
+Naive Bayes and Sentiment Classification
+Vector Semantics and Embeddings
+ Sequence Labeling for Parts of Speech and Named Entities
+ 12 Constituency Grammars . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 237
+13 Constituency Parsing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 265
+14 Dependency Parsing
+18 Word Senses and WordNet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 362
+19 Semantic Role Labeling
+20 Lexicons for Sentiment, Affect, and Connotation . . . . . . . . . . . . . . . . 401
+21 Coreference Resolution
+
+ Boolean retrieval
+  The term vocabulary and postings lists
+  Dictionaries and tolerant retrieval
+  Index construction
+  Index compression
+  Scoring, term weighting, and the vector space model
+  Computing scores in a complete search system
+   Relevance feedback and query expansion
+   XML retrieval
+   Probabilistic information retrieval 
+   Vector space classification
+   Support vector machines
+   Flat clustering
+   Hierarchical clustering
+   Matrix decompositions and latent semantic indexing
+   Link analysis
+
+   packets of thought
+   word tokenization
+   TF-IDF vectors
+   semantic analysis
+   perceptrons and backpropagation
+   word2vec, word vectors
+   RNNs
+
+   Database Prolog
+   Pure,Full Prolog
+
+
+
+Statistical NLP
+- Foundations of statistical NLP
+
+4 Corpus-Based Work
+Collocations
+7 Word Sense Disambiguation 229
+8 Lexical Acquisition 265
+11 Probabilistic Context Free Grammars
+12 Probabilistic Parsing 407
+
+
+Text analytics
+- Blueprints for Text Analytics Using Python_ Machine Learning-Based Solutions for Common Real World (NLP)
+
+5. Feature Engineering and Syntactic Similarity
+. Unsupervised Methods: Topic Modeling and Clustering
+
+
+NLP Deep learning
+- Neural Network Methods for Natural Language Processing
+- Deep Learning for NLP and Speech Recognition
+
+ngram detectors
+conditioned generation
+cascaded, multitask, and semisupervised learning
+distributed representations
+
+
+Deep learning
+- Deep learing
+- Deep learning with python
+- Deep Learning Architectures - A Mathematical Approach
+- Geometric Deep Learning
+- Theory of Deep Learning
+- Modern Math of Deep Learning
+
+generative deep learning
+
+activation functions
+abstract neurons
+universal approximators
+exact learning
+information capacity assessment
+output manifolds
+neuron manifolds
+pooling
+stochastic networks
+
+Learning in High Dimensions 
+Geometric Priors
+Geometric Domains: the 5 Gs
+Geometric Deep Learning Models
+
+6 Algorithmic Regularization
+7 Tractable Landscapes for Nonconvex Optimization
+8 Ultra-wide Neural Networks and Neural Tangent Kernel
+9 Inductive Biases due to Algorithmic Regularization
+11 Generative Adversarial Nets 
+12 Representation Learning
+
+The role of depth in the expressivity of neural networks
+
+
+
+Machine learning
+- Pattern recognition and machine learning
+- Hands on machine learning with Sci Kit
+- Graphical models, exponential families, and variational inference
+
+Probabilistic ML
+- Machine learning: a probabilistic approach
+- Probabilistic Graphical Models_ Principles and Techniques
+
+bayesian network representation
+undirected graphical models
+template based representation
+Gaussian network model
+exact inference: clique trees
+particle based approximate inference
+MAP inference
+inference in hybrid networks
+inference in temporal models
+
+
+Reinforcement learning
+- Reinforcement learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Robotics
+- Springer Handbook of Robotics 
+- Modern robotics: mechanics, planning, and control
+- Probabilistic Robotics
+- Robotics - Modelling, planning, control
+- Intermediate robot building
+
+actuation
+force control
+redundant robots
+continuum robots
+modular robots
+biomimetic robots
+tactile sensing
+inertial sensing, GPS, odometry
+sonar sensing
+visual object class recognition
+visual servoing
+multisensor data fusion
+contact modelling 
+grasping
+cooperative manipulation
+active manipulation for perception
+haptics
+telerobotics
+simultaneous localization and mapping
+
+inverse kinematics
+dynamics of open chain
+
+Recursive State Estimation
+3 Gaussian Filters 39
+4 Nonparametric Filters 85
+
+7 Mobile Robot Localization: Markov and Gaussian 191
+8 Mobile Robot Localization: Grid And Monte Carlo 237
+
+III Mapping 279
+9 Occupancy Grid Mapping 281
+10 Simultaneous Localization and Mapping 309
+11 The GraphSLAM Algorithm 337
+12 The Sparse Extended Information Filter 385
+13 The FastSLAM Algorithm 437
+
+IV Planning and Control 485
+14 Markov Decision Processes 487
+15 Partially Observable Markov Decision Processes 513
+vi Brief Contents
+16 Approximate POMDP Techniques 547
+17 Exploration 569
+
+Motor Couplers 
+Making a Fixture and Drilling Solid Rods for a Coupler
+Linear Voltage- Regulated Power Supply
+Driving Miss Motor
+Infrared Modulated Obstacle, Opponent, and Wall Detector
+Fine-Tuning the Reflector Detector
+Roundabout Robot
+the Floor Sensor Module
+
+
+
+Programming
+- learn robotics programming: build and control autonomous robots using raspberry pi 3 and python
+- Programming robots with ROS
+- Practical python programming for IoT
+
+line following sensors
+RGB strips
+mycroft
+
+wander bot
+teleopbot
+
+restful API, flask
+MQTT, python, mosquito MQTT broker
+asynchIO, event loop
+
+
+Mechanics
+- Principles of Robot Motion_ Theory, Algorithms, and Implementations
+- Robot Dynamics and Control
+
+Bug Algorithms 1
+Configuration Space
+Potential Functions
+roadmaps
+Cell Decompositions
+Sampling-Based Algorithms
+Kalman Filtering
+Nonholonomic and Underactuated Systems
+
+FORWARD KINEMATICS: THE DENAVIT-HARTENBERG CONVENTION
+manipulator jacobian
+feedback linearization
+
+Robot vision
+- Robotics, Vision and Control. Fundamental Algorithms In MATLAB
+
+Representing Position and Orientation
+Manipulator Velocity
+Vision-Based Contro
+
+
+Control theory
+- MOdern control theory
+- Feedback Control of Dynamic Systems
+
+control theory
+state variables and state space description of dynamic systems
+cayley hamilton theory
+continuous time linear state equation
+transfer function description of systems
+optimal control theory
+nonlinear control systems
+
+dynamic response
+root locus design method
+frequency response design
+state space design
+digital control
+nonlinear system
+
+
+
+
+
+
+
+
+
+
+
+
+Data Science
+- Foundations of data science
+- Data science design manual
+- R for data science
+- Statistical Rethinking_ A Bayesian Course with Examples in R and STAN
+- * Data science from scratch: fist principles with Python
+- Data science for business
+- python-for-data-analysis
+
+datamunging
+scores and rankings
+distance and network methods
+
+
+exploratory data analysis
+r markdown
+
+markov chain
+monte carlo
+
+predictive modelling, correlation, supervised segmentation
+
+ipython
+data wrangling
+data aggregation
+
+
+Modelling
+- MOdel building in mathematical programming
+
+structured linear programming models
+integer programming
+
+
+Regression analysis
+- Data analysis using regression
+
+single level regression
+linear, logistic regression
+generalized linear models
+8 Simulation for checking statistical procedures and model fits 
+Causal inference using regression on the treatment variable 
+multilevel regression, structures
+Multilevel linear models: varying slopes, non-nested models, and other complexities
+Fitting multilevel linear and generalized linear models in Bugs and R 
+speeding convergence
+missing data imputation
+
+
+Applied predictive modelling
+- Applied predictive modelling
+
+Regression Trees and Rule-Based Models . . . . . . . . . . . . . . . . . 173
+A Summary of Solubility Models . . . . . . . . . . . . . . . . . . . . . . . . . 221
+Discriminant Analysis and Other Linear Classification Models . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Classification Trees and Rule-Based Models . . . . . . . . . . . . . . 369
+A Summary of Grant Application Models . . . . . . . . . . . . . . . . 415
+Remedies for Severe Class Imbalance . . . . . . . . . . . . . . . . . . . . . 419
+Measuring Predictor Importance . . . . . . . . . . . . . . . . . . . . . . . . . 463
+An Introduction to Feature Selection . . . . . . . . . . . . . . . . . . . . . 487
+
+
+Feature engineering
+- Feature Engineering and Selection_ A Practical Approach for Predictive Models
+
+encoding categorical predictors
+numeric predictors
+interaction effect
+greedy search method
+global search method
+
+Data mining
+- Data mining: concepts and techniques
+
+Data Warehousing and Online Analytical Processing
+2 Data Warehouse Modeling: Data Cube and OLAP
+Data Cube Technology
+Cluster Analysis
+Outlier Detection
+
+Data visualization
+- The Visual Display of Quantitative Information
+
+data ink maximization and graphical redesign
+chartjunk: vibrations, grids, and ducks
+multifunctioning graphical elements
+data density and small multiples
+
+
+R
+- Advanced R
+
+Subsetting
+OO field guide 
+
+
+
+
+
+
+
+
+Quantum Computers
+- INtroduction to classical and quantum computing
+- Quantum computation and quantum information
+- Quantum computing: an applied approach
+- Learn quantum computing with python and IBM Q experience
+- Quantum computing in practice with Qiskit and Quantum experience
+
+
+ One Quantum Bit
+ Quantum Programming
+ entanglement and Quantum Protocols
+Quantum Algorithms
+
+ Quantum circuits
+ The quantum Fourier transform
+ Quantum search algorithms
+ Quantum noise and quantum operations
+ Distance measures for quantum information
+ Quantum error-correction
+ Entropy and information
+ Quantum information theory
+
+ superposition, entanglement and reversibility
+ complexity theory
+ teleportation, superdense coding, and bell's inequality
+ quantum supremacy
+ Dirac notation
+
+ Qexperience
+ quantum lab notebook
+ quantum logic gates
+ Qiskit terra
+qiskit aer
+quantum errors using ignis
+qiskit aqua
+
+qunatum drag and drop
+qiskit gate library
+quantum act with ignis
+grover's seach algorithm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hacking
+- Hacking: the art of exploitation
+- OPerator handbook: Red team, OSINT, Blue team reference
+- Security engineering: a guide to building dependable distributed systems
+- Thinking Security_ Stopping Next Year's Hackers
+- UNIX System Security_ A Guide for Users and System Administrators
+- *Hacking_Into_Computer_Systems_A_Beginners_Guide
+- Ethical Computer Hacking and Performance
+- Hacking course
+
+--------------------------------------------------------------------------------- 12
+ANDROID DEBUG BRIDGE
+ANSIBLE
+AWS CLI--------------------------------------------------------------------------------------20
+AWS_Defend -------------------------------------------------------------------------------27
+AWS_Exploit--------------------------------------------------------------------------------30
+AWS_Hardening
+AZURE CLI -----------------------------------------------------------------------------------39
+AZURE_Defend-----------------------------------------------------------------------------44
+AZURE_Exploit -----------------------------------------------------------------------------44
+AZURE_Hardening -
+BLOODHOUND
+COBALT STRIKE-----------------------------------------------------------------------------52
+CYBER CHEF--
+DOCKER--------------------------------------------------------------------------------------61
+DOCKER_Exploit ------
+FLAMINGO ----------------------------------------------------------------------------------65
+FRIDA
+GCP CLI---------------------------------------------------------------------------------------70
+GCP_Defend --------------------------------------------------------------------------------74
+GCP_Exploit---------------------------------------------------------------------------------76
+GCP_Hardening
+GHIDRA -
+GREYNOISE
+HASHCAT
+ICS / SCADA TOOLS ---------------------------------------------------------------------- 93
+INTERNET EXCHANGE POINTS--------------------------------------------------------- 93
+IMPACKET
+IPTABLES--
+------------------------------------------------------------------------------ 104
+JENKINS_Exploit -------------------------------------------------------------------------104
+JOHN THE RIPPER -----------------------------------------------------------------------105
+JQ-
+MDXFIND / MDXSPLIT
+MIMIKATZ---------------------------------------------------------------------------------202
+MIMIKATZ_Defend----------------------------------------------------------------------207
+MSFVENOM
+NETCAT ------------------------------------------------------------------------------------210
+NETWORK DEVICE_Commands------------------------------------------------------211
+NFTABLES ---------------------------------------------------------------------------------217
+NMAP
+OSQUERY
+PHYSICAL ENTRY_Keys-----------------------------------------------------------------250
+PORTS_Top1000-------------------------------------------------------------------------252
+PORTS_ICS/SCADA ----------------------------------------------------------------------254
+PORTS_Malware C2---------------------------------------------------------------------256
+PUPPET
+RESPONDER-------------------------------------------------------------------------------267
+REVERSE SHELLS --
+SHODAN -----------------------------------------------------------------------------------276
+SNORT--------------------------------------------------------------------------------------278
+SPLUNK ------------------------------------------------------------------------------------279
+SQLMAP -----------------------------------------------------------------------------------286
+SSH--
+TCPDUMP
+TIMEZONES -------------------------------------------------------------------------------297
+TMUX
+TSHARK
+WINDOWS_Registry
+WINDOWS DEFENDER ATP-
+YARA
+
+BOundaries
+inference control
+nuclear command and control
+security printing and seals
+biometrics
+tamper resistance
+side channels
+copyright and DRM
+
+PKI: Public Key Infrastructures
+
+file system security
+NIS, NFS, RFS
+UUCP
+
+
+
+Penetration testing
+- Hacker playbook 3
+- Penetration testing: a hands on introduction to hacking
+- ADvanced pentesting
+- Kali linux pentesting bible
+
+A Stack-Based Buffer Overflow 
+Structured Exception Handler Overwrites
+Fuzzing, Porting Exploits, and Metasploit Modules
+
+advanced enumeration phase
+linux privilage escalation
+Pivoting and lateral movement
+hash cracking
+
+
+Blue team
+- BTFM
+- Blue team handbook
+
+SOC, SIEM use case template
+log analysis for IR and SOC
+
+
+Red team
+- RTFM
+- Red team development and operations
+
+ENGAGEMENT CULMINATION
+
+OSINT
+- OSINT
+
+CompTia
+- CompTia security+
+
+Adding Redundancy and Fault Tolerance
+
+Bug Bounty
+- Bug bounty bootcamp
+
+cross site scripting
+open redirects
+clickjacking
+cross site request forgery
+insecure direct object reference
+SQL injection
+race conditions
+server side request forgery
+insecure deserialization
+XML external entity
+template injection
+application logic errors and broken access control
+remote code execution
+same origin policy vulnerabilities
+single sign on security issues
+information disclosure
+Fuzzers
+
+Forensics
+- learn computer forensics
+- Malware forensics field guide to linux, windows systems
+- Art of memory forensics
+
+windows artifact analysis
+
+Postmortem Forensics
+File Identification and Profiling
+Analysis of a Malware Specimen
+
+volatile framework
+memory acquisition
+windows objects and pool allocations
+processes, handles, and tokens
+process memory internals
+event log
+registry in memory
+rootkits
+disk artifacts
+event reconstruction
+timelining
+Kernel memory
+userland rootkits
+kernel mode rootkits
+phalanx2
+
+Hardware hacking
+- Hardware hacking handbook
+- Practical hardware pentesting
+- practical IoT hacking
+- The hardware hacking: adventures in making and breaking hardware 
+- Hacking electronics
+- Hacking the xbox: intro to reverse engineering
+
+fault injection
+trezor 1 wallet memory dump
+power analysis (differential)
+goodbytes
+
+BLE
+software defined radio attacks
+accessing debug interfaces
+static, dynamic reverse engineering
+
+zero configuration networking
+UART, JTAG, SWD exploitation
+SPI and I^2C
+firmware hacking
+RFID
+LPWAN
+
+Voiding the Warranty
+Installing a Blue LED
+USB Adapter
+Caveat Hacker
+
+Malware analysis
+- LEarning malware analysis
+- Malware analysis cookbook
+
+static, dynamic analysis
+disassembly using IDA
+Data transfer instruction
+debugging malicious binaries
+code injection and hooking
+malware obfuscation
+
+Sandboxes and Multi-AV Scanners
+De-Obfuscation
+Memory Forensics with Volatility  
+
+
+Binary analysis
+- Practical binary analysis
+
+binary format, ELF, PE, binary loader using libbfd
+binary instrumentation
+dynamic taint analysis using libdft
+symbolic execution using triton
+
+Python
+- Violent Python
+- Black hat python
+
+burp proxy
+trojaning tasks
+
+Reverse engineering
+- practical reverse engineering x86, x64, ARM, windows kernel
+
+Threat modelling
+- Threat modelling: designing for security
+
+STRIDE
+attack trees
+attack library
+privacy tools
+threat trees
+attacker lists
+
+
+Web hacking
+- web application hacker's handbook
+
+Mapping the Application
+Bypassing Client-Side Controls
+Attacking Session Management 
+Attacking Access Controls
+Attacking Access Controls
+Attacking Application Logic
+Attacking Native Compiled Applications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blockchain
+- Mastering blockchains
+- Blockchain in Action
+- Build Your Own Blockchain A Practical Guide to Distributed Ledger Technology
+
+consensus algo
+smart contract
+serenity
+hyperledger
+tokenization
+Dapps
+channel Dapp
+infura
+on and off chain data
+blockchain cryptography
+
+
+Bitcoin
+- *Mastering bitcoin
+- Programming Bitcoin
+
+finite fields
+elliptic curves and its cryptography
+serialization
+pay to script hash
+blocks
+bloom filter
+segwit
+
+
+Ethereum
+- *mastering ethereum
+- Building Ethereum DApps_ Decentralized Applications on the Ethereum Blockchain
+
+solidity
+web3.js
+mocha, truffle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Programming
+
+Functional programming
+- Functional programming: practice and theory
+
+Applicative Languages 
+Applicative Sequence Processing 
+Applicative Set Processing 
+Applicative Tree Processing 
+Higher-Order Functions 
+Infinite Data Structures 
+Lambda Calculus 
+Abstract Calculi 
+Universal Functions 
+Evaluation Order and Recursion 
+
+
+Competitive programming
+- Guide to competitive programming: learning and improving algorithms
+- Programming challenges: programming contest training manual
+- Cracking the coding interview
+
+graph algorithms
+range queries
+tree algos
+string algos
+
+ Backtracking
+ Graph Traversal
+Grids
+
+5 algo approaches
+bit manipulations 
+brain teasers
+OOD
+recursion
+testing
+system design and memory limits
+
+
+Programming languages
+- KARL
+- Flow-matic
+- Illiac
+
+ SUBROUTINES
+
+C language
+- The C programming language
+- Advanced C/C++ compiling
+- Making 8 bit arcade games in C
+- C GUI programming
+- C interfaces and implementations
+- Programming with posix threads
+
+Static Libraries
+
+VIC dual hardware
+run lenght encoding
+
+dynamic array
+rings
+bit, 3d vectors
+
+synchronization
+posix thread adjusts
+
+C++ 
+- C++ programming language
+
+namespaces
+overloading
+run time type information
+templates
+generic programming
+metaprogramming
+
+
+Coq
+- Art of Coq
+
+Dependent Products, or Pandora's Box
+Inductive Data Types 
+Inductive Predicates
+Extraction and Imperative Programming
+Infinite Objects and Proofs
+Proof by Reflection
+
+Fortran
+- Introduction to Programming with Fortran
+
+whole array, additional arrya
+operator overloading
+PDT
+submodules
+parallel programming
+MPI
+openMP
+coarray fortran
+C interop
+procedure pointer
+
+
+Haskell
+- Haskell from first principles
+
+Typeclasses 247
+Folding lists 530
+Algebraic datatypes 590
+Monoid, Semigroup 887
+Functor 957
+Applicative 1052
+Monad 1140
+Foldable
+Traversable 1282
+reader
+State 1364
+Parser combinators 1395
+Composing types 1504
+Monad transformers 1546
+Nonstrictness 1629
+
+
+ISP
+- ISP Language to Describe Instruction Sets
+- ISPS language
+
+
+Java
+- Effective java
+
+enums and annotations
+
+
+Javascript
+- Eloquent javascript
+
+Asynchronous Programming 180
+JavaScript and the Browser 216
+The Document Object Model 224
+Handling Events 243
+
+
+Lisp
+- Understanding LISP
+- LISP-1.5-Programmers-Manual
+
+S-EXPRESSIONS
+
+THE LISP INTERPRETER
+THE WANG ALGORITHM FOR THE PROPOSITIONAL CALCULUS 
+
+
+Python
+- Python crash cours
+- Automate the boring stuff with python
+- Learning python
+- Python beyond the basics
+- Clean code in python
+- Hands on enterprise application development with python
+- Python for devOPs
+- Practices of the python pro
+- Programming python: powerful object oriented programming
+- Python cookbook
+- Python essential reference
+- Hitchhiker's guide to python
+- Python 3 standard library by example
+- Bioinformatics with python cookbook
+
+dynamic typing
+
+
+dunder method
+
+SOLID principle
+decorators, descriptors
+generators, iterators, and asynchronous programming
+
+tracing in microservice
+enterprise app integration
+
+infrastructure as code
+
+The PyMailGUI Client . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 876
+
+
+
+
+Swift
+- Swift programming: the big nerd ranch guide
+
+Optionals
+Closures 
+Enumerations
+Properties
+Initialization 
+swift Protocols
+ Memory Management and ARC
+ Equatable, Comparable, and Hashable
+ Property Wrappers
+
+
+ABEL HDL
+- ABL HDL reference manual
+
+CPLD
+
+Verilog
+- Verilog HDL
+- Programming FPGAs: getting started with verilog
+
+Hierarchical Modeling Concepts,Top-down and bottom-up design methodology, differences between modules and,module instances, parts of a simulation, design block, stimulus block. 
+Basic Concepts, Lexical conventions, data types, system tasks, compiler directives. 
+4 Modules and Ports, Module definition, port declaration, connecting ports, hierarchical name referencing. 
+5 Gate-Level Modeling, Modeling using basic Verilog gate primitives, description of and/or and buf/not type, gates, rise, fall and turn-off delays, min, max, and typical delays. 
+Dataflow Modeling Continuous assignments, delay specification, expressions, operators, operands, operator types.
+7 Behavioral Modeling, Structured procedures, initial and always, blocking and nonblocking statements, delay control, generate statement, event control, conditional statements, multiway branching, loops, sequential and parallel blocks.
+8 Tasks and Functions, Differences between tasks and functions, declaration, invocation, automatic tasks and functions.
+9 Useful Modeling Techniques, Procedural continuous assignments, overriding parameters, conditional compilation and, execution, useful system tasks. 
+
+FPGA
+Modular Verilog
+Timer
+PWM and Servomotors
+Audio
+
+
+Command line
+- Linux command line programming
+- Essential Bash
+
+redirection
+shell script, positional parameters
+
+Low level programming
+- Low level programming
+
+: Virtual Memory �
+: Compilation Pipeline ��
+: Interrupts and System Calls��
+Multithreading �
+
+
+Assembly
+- Assembly lanuage for x86 processors
+- Learn multiplatform programming in assembly with ChibiAkumas! 
+
+Machine language
+
+
+Hardware programming
+Arduino 
+- Programming arduino: Getting started with sketches
+- Programming arduino next steps: Going further with sketches
+- Beginning C for Arduino
+
+Using I2C
+Interfacing with 1-Wire Devices
+11 Interfacing with SPI Devices . . . . . . . . . . . . . . . . . . . . . . . . . 177
+12 Serial UART Programming . . . . . . . . . . . . . . . . . . . . . . . . . . 187
+15 Digital Signal Processing . . . . . . . . . . . . . . . . . . . . . . . . . . . . 239
+
+Raspberry PI
+- Beginner's guide
+- Beginner book
+- Getting started with Raspberry pi
+- Learn to code with C
+- Raspberry Pi handbook
+
+scratch 3
+sense HAT
+
+raspbianOS
+etcher
+VNC
+GPIO zero
+thonny
+file server
+sense HAT emulator
+
+
+Embedded systems
+- An embedded software primer
+- Test driven development for embedded C
+- Making embedded systems
+- Embedded systems with ARM cortex-M microcontrollers using assembly and C
+- Real time interfacing to ARM cortex-M microcontrollers
+- Real time OS for ARM cortex-M microcontrollers
+- STM 32 ARM programming for embedded systems
+- Hands on RTOS with microcontrollers
+- Real time C++ efficient object oriented and template microcontroller
+
+RTOS
+
+Embedded TDD Strategy 104
+Introducing Test Doubles 134
+Runtime-Bound Test Doubles 177
+The Mock Object 193
+SOLID, Flexible, and Testable Designs 219
+Refactoring 249
+Test Patterns and Antipatterns 310
+LedDriver After Getting Started 337
+OS Isolation Layer 340
+
+Data Representation
+ARM Instruction Set Architecture 
+Load and Store
+Structured Programming .
+64-bit Data Processing
+Instruction Encoding and Decoding
+General-purpose Timers
+Stepper Motor Contro
+Real-time Clock
+Direct Memory Access 
+Analog-to-Digital Converter (
+Serial Communication Protocols
+Digital Signal Processing
+: HID Codes
+
+hardware-software, interrupt synchronization
+time interfacing
+Serial Interfacing
+Data Acquisition Systems
+
+thread management
+High-Speed Interfacing
+
+sensor interfacing
+SPI protocol and DAC interfacing
+I2c protocol and rtc interfacing
+relay, optoisolator
+pwm and dc motor control
+DMA programming
+
+task signalling and comm mechanism
+toolchain setup
+MCU
+freeRTOS scheduller
+intertask communication
+drivers and ISRs
+sharing peripherals across tasks
+loose couplings with queues
+
+Microcontroller Registers ..................................... 177
+C++ Multitasking .......................................................... 279
+High-Performance Digital Filters......................................... 353
+
+
+
+Software engineering
+- Software engineering: a practioner's approach
+- Modern Software Engineering
+- Computer engineering: a DEC view of hardware systems design
+
+software process model
+UML
+
+modularity
+cohesion
+managing coupling
+
+Seven Views of Computer Systems
+Transistor Circuitry in the Lincoln TX-2 
+The PDP-I and Other I8-Bit Computers 
+The PDP-8 and Other I2-Bit Computers
+ Structural Levels of the PDP-8
+ A New Architecture <9 for Minicomputers -The DEC PDP-II
+Cache Memories for PDP-II Family Computers
+Buses, The Skeleton of Computer Structures
+A Minicomputer-Compatible Microcomputer System: The DEC LSI-II
+Design Decisions for the PDP-ll/60 Mid-Range Minicomputer
+Software Smoothing of Hardware Differences 
+VAX-ll/780: A Virtual Address Extension to the DEC PDP-II·Family
+The Description and Use of Register Transfer Modules (RTMs)
+U sing LSI Processor Bit-Slices to Build a PDP-II
+
+
+Project management
+- PMBOK
+
+
+Software development
+- Software development, design, and coding with patterns, debugging, unit testing, and refactoring
+- Software development and professional practice
+- Concepts, techniques, and models of computer programming
+- Building secure software_ how to avoid security problems the right way
+
+Object-Oriented Analysis and Design
+Structured Design
+
+declarative computation model
+declarative concurrency
+message parsing concurrency
+explicit state
+shared state concurrency
+relational programming
+GUI programming
+Distributed programming
+Constraint programming
+
+Applicaiton development
+- BUild windows 8 apps with microsoft visual C#
+- C# 10 and .NET 6 cross platform development with asp.NET core 6, 
+- Designing interfaces: Patterns for effective interactions
+- Desktop Java Live
+- High performance windows store apps
+
+Application lifecycle management 99
+Introduction to the Windows Runtime 133
+Windows Runtime APIs
+Asynchronous patterns
+
+Packaging and Distributing .NET Types
+Working with Data Using Entity Framework Core
+Querying and Manipulating Data Using LINQ 
+Building Websites Using ASP.NET Core Razor Pages 
+Building Websites Using the Model-View-Controller Pattern 
+Building User Interfaces Using Blazor
+
+layout managers
+gui builders
+swing threading
+data binding
+validation
+
+
+Phone application development
+- MObile phone programming
+- SymbianOS architecture sourcebook
+- iOS programming: the big nerd ranch guide
+- Head first iphone and ipad development
+- Android programming: the big nerd ranch guide
+- professional android 4 application development
+
+Java 2 Micro Edition
+ Symbian/C++
+ open C
+ Qtopia Greenphone
+ Maemo Linux
+ Windows Mobile Programming
+ Infrastructure-Based Communication, Service Discovery
+Digital Ownership for P2P Networks
+ SMARTEX: The SmartME Application
+ Cooperative Wireless Networking
+ Energy Saving Aspects and Services for Cooperative Wireless Networks
+7 Cross-Layer Protocol Design for Wireless Communication
+Sensor Networks Convergence of Mobile Devices and Wireless Sensor Networks
+Using In-built RFID/NFC, Cameras, and 3D Accelerometers as Mobile Phone Sensors
+ Sensor Networks for Distributed Computing
+ Energy Efficiency of Video Decoder Implementations
+ External Energy Consumption Measurements on Mobile Phones
+Optimizing Mobile Software with Built-in Power Profiling
+
+Object Orientation
+The Symbian OS Layered Model
+The Comms Services Block
+The Kernel Services and Hardware Interface Layer
+The Java ME Subsystem
+
+Views and the View Hierarchy 
+View Controllers
+Programmatic Views .
+Text Input and Delegation .
+UITableView and UITableViewController ..
+Subclassing UITableViewCell .
+Stack Views .
+Navigation Controllers .
+Saving, Loading, and Scene States .
+Presenting View Controllers .
+Adaptive Interfaces .
+Extensions and Container View Controllers
+Custom Controls 
+Controlling Animations 
+Collection Views .
+Core Data, map kit, and core location
+
+the activity lifecycle
+persistent ui state
+android sdk
+ui fragments
+recycler view
+ui with widgets and layouts
+room library
+dialogs
+appbar
+implicit intents
+databinding and MVVM
+XML drawables
+handlerthread
+searchview and shared preferences
+broadcast intent
+Custom Views and Touch Events ..
+
+Intents and Broadcast Receivers
+Files, Saving State, and Preferences
+Hardware Sensors
+Maps, Geocoding, and Location-Based Services
+Bluetooth, NFC, Networks, and Wi-Fi
+
+
+
+Software architecture
+- Fundamentals of Software Architecture_ An Engineering Approach
+- Patterns of Enterprise Application Architecture - Martin Fowler
+- Documenting Software Architectures
+- Intel Architectures Optimization Manual
+- Software Architecture_ The Hard Parts_ Modern Trade-Off Analyses for Distributed Architectures
+- The Practice of Enterprise Architecture A Modern Approach to Business and IT Alignment 
+- The Architecture Of Open Source Applications
+- The Performance of Open Source Applications
+- Microsoft .NET - Architecting Applications for the Enterprise
+
+Layered, pipelined, microkernel, service based, event driven, space based, orchestration driven service oriented, microservices Architecture Styles
+
+layering
+organizing domain logic
+session state
+domain logic, data source architectural, object relational behavioral or structural or metadata mapping, web presentation, distribution, offline concurrency, session state, base patterns
+
+module views
+component and connector views
+allocation views
+
+intel 64 and IA 32, Atom processor, SIMD architectures
+SIMD integer applications
+INT8 deep learning interface
+Cache usage optimization
+sub numa clustering
+multicore hyperthreading techs
+intel optane DC persistent memory
+SSE4.2 and SIMD for text processing, lexing, and parsing
+intel AVX, FMA, and AVX2
+intel TSX recommendations
+power optimization 
+finite field arithmetic enhancements
+knights landing microarchitecture
+
+service granularity
+data ownership and distributed transactions
+distributed data access
+transactional sagas
+contracts
+
+Enterprise Architecture
+The CSVLOD Model of Enterprise Architecture
+
+. Asterisk 
+Audacity
+The Bourne-Again Shell
+Berkeley DB
+Cmake
+eclipse
+Graphite
+The Hadoop Distributed File System
+Continuous Integration
+jitsi
+LLVM
+mercurial
+The NoSQL Ecosystem
+Python Packaging
+Riak and Erlang/OTP
+. Selenium WebDriver
+sendmail
+snowflock
+SocialCalc
+telepathy
+Thousand Parsec
+violet
+VisTrails
+VTK
+Battle For Wesnoth
+Firefox Release Engineering
+FreeRTOS
+GDB
+The Glasgow Haskell Compiler
+GIT
+GPSD
+The Dynamic Language Runtime and the Iron Languages
+ITK
+ GNU Mailman
+ matplotlib
+  MediaWiki
+  Moodle
+  nginx
+  Open MPI
+  oscar
+  Processing.js
+  puppet
+  pypy
+  SQLAlchemy
+  Twisted
+  yesod
+  yocto
+  ZeroMQ
+
+  high performance networking
+  from social calc to ethercalc
+  ninja
+  Parsing XML at the Speed of Light 43
+  memshrink
+  Applying Optimization Principle Patterns to Component Deployment and Configuration Tools 69
+  Infinispan 87
+talos
+zotonic
+Secrets of Mobile Network Performance 119
+warp
+
+Domain Model
+cqrs
+event sourcing
+The persistence layer
+The presentation layer
+The mythical business layer
+
+
+Software design
+- Designing data-intensive application
+- Designing Data-Intensive Web Applications 
+- Domain-driven design_ tackling complexity in the heart of software
+- Applying UML and Patterns_ An Introduction to Object-Oriented Analysis and Design and Iterative Development
+- Implementing domain-driven design
+- Test Driven Development_ By Example
+- Design Patterns_ Elements of Reusable Object-Oriented Software
+- Building Microservices_ Designing Fine-Grained Systems
+- Software Requirements
+- Software Requirements further thorny issues
+- System Design Interview_ An Insider’s Guide
+
+2. Data Models and Query Languages
+Distributed data
+Part III. Derived Data
+10. Batch Processing
+11. Stream Processing
+
+binding model
+isolating the domain
+a model expressed in software
+domain object
+supple design
+model integrity
+distillation
+
+xUnit
+TTD, red bar, testing, green bar, design patterns
+
+creational, structural, behavioral patterns
+
+3. Splitting the Monolith.
+5. Implementing Microservice Communication
+
+2 2 Iterative, Evolutionary, and Agile
+10 10 System Sequence Diagrams 1
+Operation Contracts
+Requirements to Design—Iteratively
+3 Logical Architecture and UML Package Diagrams
+object design
+UML Interaction Diagrams
+UML Class Diagrams
+GRASP: Designing Objects with Responsibilities
+Mapping Designs to Code
+UML Tools and UML as Blueprint
+Quick Analysis Update
+Applying GoF Design Patterns
+UML Activity Diagrams and Modeling
+UML State Machine Diagrams and Modeling
+Domain Model Refinement 
+More SSDs and Contracts
+Architectural Analysis
+4 Logical Architecture Refinemen
+Package Design
+UML Deployment and Component Diagrams 
+Documenting Architecture: UML & the N+1 View Model
+
+RATE LIMITER
+CONSISTENT HASHING
+KEY-VALUE STORE
+UNIQUE ID GENERATOR IN DISTRIBUTED SYSTEMS
+URL SHORTENER
+WEB CRAWLER
+Noti systems
+NEWS FEED SYSTEM
+chat system
+SEARCH AUTOCOMPLETE SYSTEM
+
+
+System performance
+- System performance enterprise and the cloud
+- Dependency injections: principles, practices, and patterns
+
+benchmarking
+perf
+ftrace
+bpf
+sar
+
+2 ■ Writing tightly or loosely coupled code
+catalog
+4 ■ DI patterns 83
+5 ■ DI anti-patterns 124
+6 ■ Code smells 1
+pure DI
+0 ■ Aspect-Oriented Programming by design 301
+11 ■ Tool-based Aspect-Oriented Programming 3
+DI containers
+13 ■ The Autofac DI Container 393
+14 ■ The Simple Injector DI Container 427
+15 ■ The Microsoft.Extensions.DependencyInjection DI Container
+
+
+Web development
+- Front end web development: the big nerd ranch guide
+- PHP and mySQL web development
+- Web scalability for startup engineers
+
+responsive layouts with flexbox
+adaptive layouts with media queries
+ajax
+Deferreds and Promises .
+Real-Time Communication with WebSockets ..
+Using ES6 with Babel .
+Introduction to MVC and Ember .
+Connecting to Web Services with XML and SOAP
+
+Asynchronous Processing
+
+DevOPS
+- Art of Unix programming
+- Continuous delivery
+- Time management for sysAdmins
+
+deployment pipeline
+
+
+Sysadmin
+- UNIX and Linux System Administration Handbook
+- Advanced Programming in the UNIX Environment
+- The Practice of System and Network Administration
+- The Practice of Cloud System Administration
+
+booting and sys management daemons
+rootly power
+process control
+webhosting
+SMB
+
+system data files
+thread control
+daemon process
+terminal IO, pseudo terminal
+
+The Small Batches Principle
+Workstation Fleet Management
+Workstation Software Life Cycle
+Namespaces
+ Nameservices
+
+ Capacity Planning
+ Oncall
+KPI
+
+
+Optimization
+- * The Art of SEO_ Mastering Search Engine Optimization
+- Optimizing C++
+- Code Optimization_ Effective Memory Usage
+
+optimal platform
+C++ constructs
+multithreading
+out of order execution
+critical code
+metaprogramming
+
+Debugging
+- The Art of Debugging with GDB, DDD, and Eclipse
+
+GDB, DDD, eclipse
+
+Coding practices
+- Clean Code
+- Pragmatic programmer
+- * Refactoring
+- Mythical man month essays on software engineering
+- working effectively with legacy code
+- elements of programming style
+- structure and interpretation of computer programs
+- practice of programming
+- extreme programming explained
+- Unit testing: principles, practices, and patterns
+- *Code: the hidden language of computer hardware
+- *code complete
+- software tools
+- *self taught programmer
+
+emergence, Junit
+
+seam model
+dependency breaking techniques
+
+Control Structure 
+
+register machine
+
+4 ■ The four pillars of a good unit test
+5 ■ Mocks and test fragility
+8 ■ Why integration testing?
+11 ■ Unit testing anti-patterns
+
+theory of constraints
+XP programming
+taylorism and software
+purity
+offshore development
+
+text patterns
+macro processing
+ratfor fortran translator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Linguistics
+- Linguistics: an introduction to language and communication
+- Language files
+- Cambridge encyclopedia of language
+- Course in General Linguistics
+- Foundations of Language_ Brain, Meaning, Grammar, Evolution
+- The Cambridge encyclopedia of language
+- The Language Construction Kit
+- Advanced Language Construction kit
+- The Planet Construction Kit
+
+Morphology 
+- Describing Morphosyntax_ A Guide for Field Linguists
+- Language Universals and Linguistic Typology_ Syntax and Morphology
+- Vowels and consonants
+
+Phonology
+- Introductory phonology
+
+Phonetics
+- A Course in Phonetics
+- Acoustic and Auditory Phonetics
+- Phonetic Data Analysis_ An Introduction to Fieldwork and Instrumental Techniques
+
+Morphology
+Syntax
+Semantics
+pragmatics
+Language acquisition
+Language change
+Language contact
+writing system
+animal communication
+
+Syntax
+- Understanding syntax
+- Syntax: Generative introduction
+- The Syntax Construction Kit
+
+Semantics
+- Semantics
+- Semantics in generative grammar
+
+sociolinguistics
+- INtroducing sociolinguistics
+
+language variation
+language attitude
+multilinguism
+gender
+language contact
+
+psycholinguistics
+- INtroduction to psycholinguistics: Understanding language science
+- The psychology of language: from data to theory
+
+biological and developmental basis of language
+word recognition
+- reading
+- spelling
+- understanding speech
+mearning and using language
+- understanding structure of sentences
+- word meaning
+- comprehension
+production and other aspects
+language production
+
+Traslation studies
+- Introducing Translation Studies_ Theories and Applications
+- A texbook of translation
+- In Other Words A Coursebook on Translation
+
+English
+- The Cambridge Encyclopedia of the English Language
+
+
+
+
+
+
+
+
+Psychology
+- Psychology
+- A history of modern psychology
+- An introduction to the history of psychology
+
+biology of the mind
+nature, nurture, and human diversity
+developing through the life span
+consciousness
+learning
+memory
+perception
+intelligence
+language
+what drives us
+emotion, stress and anxiety
+social psychology
+- self
+- cultural norms
+personality
+psychological disorder
+therapy
+
+cognitive psychology
+- Cognitive psychology
+- Cognitive psychology: a student's handbook
+
+perception
+attention
+memory
+mental images and propositions
+organization of knowledge
+language
+problem solving, reasoning creativity
+making decisions and judgment
+intelligence
+
+Developmental psychology
+- Development through the life span
+
+infants up to 2 years
+children after 2 years
+adolescent years
+
+psychological assessment
+- Handbook of psychological assessment
+- Assessment of children
+
+psychological disorder
+- Abnormal psychology: an integrative approach
+
+Social Psychology
+- Social psychology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Philosophy
+- Introducing philosophy
+- HIstory of philosophy
+
+Aesthetics
+- Philosophy of arts: an introduction to aesthetics
+- philosophies of art and beauty
+
+Epistemology
+- Epistemology contemporary readings
+- Epistemology a contemporary introduction to the theory of knowledge
+
+Ethics
+- Elements of moral philosophy
+- Ethics contemporary readings
+- Ethical theory: an anthropology
+
+Metaphysics
+- Metaphysics: an introduction
+- Survey of metaphysics
+- Metaphysics: contemporary readings
+
+Philosophy of mind
+- The conscious mind in search of a fundamental theory
+- Philosophy of mind: classical and contemporary readings
+
+Philosophy of science
+- Philosophy of Science_ A Contemporary Introduction
+- Philosophy of Science: Contemporary readings
+
+Political philosophy
+- Political philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Economics
+- Economics
+- HIstory of economics analysis
+- A theory of economic history
+- Handbook on the history of economic analysis
+
+Microeconomics
+- Microeconomic theory
+- Advanced Microeconomic Theory
+
+Macroeconomics
+- ADvanced macroeconomy
+
+Econometrics
+- Introductory economics 
+- Econometric analysis
+- microeconometric methods and its applications
+
+Game theory
+- Game theory
+
+Public economics
+- Economics of the public sector
+
+International economics
+- INternational economics
+
+Labor economics
+- ISE labor economics
+
+Growth and Development
+- Economic development
+- Economic growth
+
+Agricultural and Rural economics
+- Introduction to agricultural economics
+- Principles of agricultural economics
+
+Urban & Real estate economics
+- Urban economic theory: land use and city size
+- Urban economics and real estate markets
+- Real estate finance and markets
+
+Banking
+- Bank regulation, risk management, and compliance
+- Risk management and shareholders value in banking
+
+Investment Banking
+- Investment banking valuation, LBO, MA and IPOs
+- The art of M & A
+- Mergers, Acquisitions, and Corporate Restructurings
+- Applied Mergers and Acquisitions
+
+Business
+- (Examples & explanations series) Corporations
+
+Accounting
+- Intermediate accounting
+- Advanced accounting
+
+Cost Accounting
+- Horngren's cost accounting _ a managerial emphasis
+
+Financial statement Analysis
+- Financial Statement Analysis & Valuation
+- The Interpretation of Financial Statements
+
+Auditing
+- Auditing & Assurance Services_ A Systematic Approach
+- Principles of auditing & other assurance services
+
+Forensic accounting
+- Essentials of Forensic Accounting
+- Forensic and Investigative Accounting
+- Forensic Analytics
+
+Fraud examination
+- Principles of Fraud Examination
+- Fraud examination
+
+Compliance
+- Examples & Explanations for Securities Regulation
+- Contract Drafting and Negotiation for Entrepreneurs and Business Professionals
+
+Finance
+- Investments
+- Principles of corporate finance
+- options, futures and other derivatives
+
+Financial analysis
+valuation
+- Investment Valuation_ Tools and Techniques for Determining the Value of Any Asset
+- Valuation_ Measuring and Managing the Value of Companies
+
+Modelling
+- Financial Modeling
+
+Private equity & venture capital
+- Mastering Private Equity_ Transformation via Venture Capital, Minority Investments and Buyouts
+- The Business of Venture Capital_ The Art of Raising a Fund, Structuring Investments, Portfolio Management, and Exits
+
+Credit risk & debt analysis
+- Standard & Poor's Fundamentals of Corporate Credit Analysis
+- Advanced Credit Risk Analysis and Management
+- Distressed Debt Analysis_ Strategies for Speculative Investors
+
+HR 
+- Fundamentals of Human Resource Management
+
+Logistics
+- Logistics & supply chain management
+- Supply Chain Management_ A Logistics Perspective
+
+Management
+- Introduction to management science
+- Paul Hoang - IB Business Management
+
+Marketing
+- MKTG_ Principles of Marketing
+
+Operation research & management
+- Introduction to Operations Research
+- Site Reliability Engineering_ How Google Runs Production Systems
+
+
+Countries
+China
+Germany
+NEtherland
+Sweden
+Switzerland
+UK
+
+Subject
+system
+Structure
+Properties
+Interaction
+Function
+Cause and effect
+Application
+simulation
+
+types of models
+operational, mathematical, computational, graphical
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+History
+- History of Humanity
+- Delphian course: World's progress
+- Great events by famous historias
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Books
+- Great books of the Westen world
+- Harvard classics fiction collections
+- The complete fiction collection
+- Sacred books of the east
+
+Books by famous people
+
+
+
