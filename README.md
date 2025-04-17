@@ -1,1 +1,1 @@
-Ars longa, vita brevis. My gosh, literally!
+Ars longa, vita brevis
